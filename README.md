@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![API Status](https://img.shields.io/badge/API-Active-green.svg)](https://github.com/matheussesso/darkhumor-api)
 
-> Uma API REST gratuita e open source para piadas de humor negro em formato JSON, inspirada na chucknorris.io
+> Uma API REST gratuita e open source criada na zueira com piadas de baixissímo nível de humor negro em formato JSON, inspirada na [chucknorris.io](chucknorris.io)
 
 ## Índice
 
@@ -21,7 +21,7 @@
 - [Licença](#-licença)
 - [Suporte](#-suporte)
 
-## obre o Projeto
+## Sobre o Projeto
 
 A **Dark Humor API** é uma API REST completa que fornece acesso a uma coleção cuidadosamente curada de piadas de humor negro em português brasileiro. Desenvolvida com CodeIgniter 4, oferece uma interface moderna e endpoints bem documentados para desenvolvedores.
 
@@ -520,7 +520,7 @@ curl -X GET "http://localhost/jokes/categories"
 ```
 
 ### Métricas da API
-- **1000+** piadas únicas catalogadas
+- **1000+** piadas catalogadas
 - **68+** categorias diferentes
 
 ## Licença
@@ -557,7 +557,7 @@ copies or substantial portions of the Software.
 
 **Desenvolvido com ❤️ para a comunidade de desenvolvedores brasileiros**
 
-*Inspirado na [chucknorris.io](chucknorris.io)](chucknorris.io) - Adaptado para humor negro brasileiro*
+*Inspirado na [chucknorris.io](chucknorris.io) - Adaptado para humor negro brasileiro*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheussesso/darkhumor-api)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
