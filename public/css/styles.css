@@ -1,0 +1,372 @@
+/* Dark Humor API - Modern Custom Styles */
+
+/* Import Google Fonts */
+body {
+    font-family: Ubuntu, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-feature-settings: 'cv02', 'cv03', 'cv04', 'cv11';
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    display: flex;
+    align-items: center;
+}
+
+.min-vh-75 {
+    min-height: 75vh;
+}
+
+.text-gradient {
+    background: linear-gradient(135deg, #dc3545, #fd7e14);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.bg-gradient-danger {
+    background: linear-gradient(135deg, #dc3545, #c82333) !important;
+}
+
+/* Feature Cards */
+.feature-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 1rem;
+    background: white;
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.feature-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+}
+
+.feature-icon {
+    width: 80px;
+    height: 80px;
+}
+
+/* API Cards */
+.api-card {
+    background: white;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid rgba(0,0,0,0.08);
+}
+
+.api-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.1);
+}
+
+.method-badge {
+    font-size: 0.75rem;
+    letter-spacing: 0.5px;
+}
+
+.endpoint-url {
+    font-size: 0.85rem;
+    word-break: break-all;
+}
+
+/* Code Examples */
+.code-examples-container .nav-pills .nav-link {
+    border-radius: 50px;
+    padding: 0.75rem 1.5rem;
+    margin: 0 0.25rem;
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.code-examples-container .nav-pills .nav-link:hover {
+    background-color: rgba(220, 53, 69, 0.1);
+    border-color: rgba(220, 53, 69, 0.2);
+}
+
+.code-examples-container .nav-pills .nav-link.active {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.code-block {
+    position: relative;
+    overflow: hidden;
+    background: #2d3748 !important;
+    border-radius: 0.75rem;
+}
+
+.code-block pre {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+    font-size: 0.875rem;
+    line-height: 1.6;
+    margin: 0;
+    background: transparent !important;
+    padding: 0 !important;
+}
+
+.code-block pre code {
+    font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+    background: transparent !important;
+    color: #e2e8f0 !important;
+}
+
+/* Prism.js theme customization */
+.code-block .token.comment,
+.code-block .token.prolog,
+.code-block .token.doctype,
+.code-block .token.cdata {
+    color: #6b7280 !important;
+}
+
+.code-block .token.punctuation {
+    color: #d1d5db !important;
+}
+
+.code-block .token.property,
+.code-block .token.tag,
+.code-block .token.boolean,
+.code-block .token.number,
+.code-block .token.constant,
+.code-block .token.symbol,
+.code-block .token.deleted {
+    color: #f87171 !important;
+}
+
+.code-block .token.selector,
+.code-block .token.attr-name,
+.code-block .token.string,
+.code-block .token.char,
+.code-block .token.builtin,
+.code-block .token.inserted {
+    color: #34d399 !important;
+}
+
+.code-block .token.operator,
+.code-block .token.entity,
+.code-block .token.url,
+.code-block .language-css .token.string,
+.code-block .style .token.string {
+    color: #60a5fa !important;
+}
+
+.code-block .token.atrule,
+.code-block .token.attr-value,
+.code-block .token.keyword {
+    color: #a78bfa !important;
+}
+
+.code-block .token.function,
+.code-block .token.class-name {
+    color: #fbbf24 !important;
+}
+
+.code-block .token.regex,
+.code-block .token.important,
+.code-block .token.variable {
+    color: #fb7185 !important;
+}
+
+.copy-btn {
+    opacity: 0.7;
+    transition: opacity 0.3s ease;
+}
+
+.copy-btn:hover {
+    opacity: 1;
+}
+
+/* Statistics */
+.stat-card {
+    transition: transform 0.3s ease;
+    border-radius: 1rem;
+    background: white;
+    border: 1px solid rgba(0,0,0,0.05);
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-icon {
+    width: 80px;
+    height: 80px;
+}
+
+/* Code Window */
+.code-window {
+    position: relative;
+}
+
+.code-window pre {
+    font-size: 0.875rem;
+    line-height: 1.6;
+}
+
+/* Header */
+header {
+    background: linear-gradient(135deg, #f5f5f5 0%, #e8e9ea 100%)
+}
+
+/* Navbar */
+.navbar {
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.navbar-brand {
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+
+/* Header Navigation Links */
+header .text-decoration-none {
+    color: #333 !important;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+header .text-decoration-none:hover {
+    color: #dc3545 !important;
+    background-color: rgba(220, 53, 69, 0.1);
+    transform: translateY(-1px);
+}
+
+header .text-decoration-none::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: 0;
+    left: 50%;
+    background-color: #dc3545;
+    transition: all 0.3s ease;
+    transform: translateX(-50%);
+}
+
+header .text-decoration-none:hover::after {
+    width: 80%;
+}
+
+/* GitHub Button in Header */
+header .btn-outline-danger {
+    border-color: #dc3545;
+    color: #dc3545;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+header .btn-outline-danger:hover {
+    background-color: #dc3545;
+    border-color: #dc3545;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 15px rgba(220, 53, 69, 0.3);
+}
+
+/* Buttons */
+.btn {
+    font-weight: 500;
+    border-radius: 0.5rem;
+    transition: all 0.3s ease;
+}
+
+.btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn-danger {
+    box-shadow: 0 4px 15px rgba(220, 53, 69, 0.3);
+}
+
+.btn-danger:hover {
+    box-shadow: 0 6px 20px rgba(220, 53, 69, 0.4);
+    transform: translateY(-1px);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+/* Dark scrollbar for code blocks */
+.bg-dark::-webkit-scrollbar-track {
+    background: #2d3748;
+}
+
+.bg-dark::-webkit-scrollbar-thumb {
+    background: #4a5568;
+}
+
+.bg-dark::-webkit-scrollbar-thumb:hover {
+    background: #718096;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { 
+        opacity: 0; 
+        transform: translateY(20px); 
+    }
+    to { 
+        opacity: 1; 
+        transform: translateY(0); 
+    }
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero-section {
+        min-height: 60vh;
+        text-align: center;
+    }
+    
+    .display-3 {
+        font-size: 2.5rem;
+    }
+    
+    .feature-icon,
+    .stat-icon {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .code-examples-container .nav-pills .nav-link {
+        padding: 0.5rem 1rem;
+        margin: 0.125rem;
+        font-size: 0.875rem;
+    }
+}
