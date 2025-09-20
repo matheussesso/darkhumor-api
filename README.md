@@ -23,7 +23,7 @@
 
 ## Sobre o Projeto
 
-A **Dark Humor API** é uma API REST completa que fornece acesso a uma coleção cuidadosamente curada de piadas de humor negro em português brasileiro. Desenvolvida com CodeIgniter 4, oferece uma interface moderna e endpoints bem documentados para desenvolvedores.
+Desenvolvida na zueira, a **Dark Humor API** é uma API REST completa que fornece acesso a uma coleção cuidadosamente curada de piadas de humor negro em português brasileiro. Desenvolvida com CodeIgniter 4, oferece uma interface moderna e endpoints bem documentados para desenvolvedores.
 
 ### Características
 
