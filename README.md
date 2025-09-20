@@ -557,7 +557,7 @@ copies or substantial portions of the Software.
 
 **Desenvolvido com ❤️ para a comunidade de desenvolvedores brasileiros**
 
-*Inspirado na [chucknorris.io](chucknorris.io) - Adaptado para humor negro brasileiro*
+*Inspirado na [chucknorris.io](https://api.chucknorris.io/) - Adaptado para humor negro brasileiro*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheussesso/darkhumor-api)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
