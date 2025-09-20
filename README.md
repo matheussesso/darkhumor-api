@@ -486,8 +486,7 @@ darkhumor-api/
 ├── 📁 writable/
 ├── 📁 tests/
 ├── composer.json
-├── README.md
-└── README_API.md
+└── README.md
 ```
 
 ## Testes
