@@ -8,6 +8,27 @@
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <meta name="description" content="<?= lang('App.description') ?>"/>
+    <meta name="author" content="Matheus Sesso"/>
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="<?= base_url() ?>"/>
+    <meta property="og:title" content="<?= lang('App.title') ?>"/>
+    <meta property="og:description" content="<?= lang('App.description') ?>"/>
+    <meta property="og:image" content="<?= base_url('img/meta-image.png') ?>"/>
+    <meta property="og:image:width" content="1200"/>
+    <meta property="og:image:height" content="630"/>
+    <meta property="og:image:alt" content="<?= lang('App.title') ?>"/>
+    <meta property="og:site_name" content="Dark Humor API"/>
+    <meta property="og:locale" content="<?= $current_language == 'pt' ? 'pt_BR' : ($current_language == 'en' ? 'en_US' : 'es_ES') ?>"/>
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:url" content="<?= base_url() ?>"/>
+    <meta name="twitter:title" content="<?= lang('App.title') ?>"/>
+    <meta name="twitter:description" content="<?= lang('App.description') ?>"/>
+    <meta name="twitter:image" content="<?= base_url('img/meta-image.png') ?>"/>
+    <meta name="twitter:image:alt" content="<?= lang('App.title') ?>"/>
     
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
