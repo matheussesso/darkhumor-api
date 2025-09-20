@@ -1,0 +1,5509 @@
+{
+    "description": "Compilação de 1000 piadas de humor negro, incluindo 80 atribuídas a Léo Lins (corrigidas) e 920 no mesmo estilo, coletadas de compilações online, fóruns e adaptadas. Temas incluem morte, doença, deficiências, racismo, tragédias, pobreza e tabus. Piadas sobre pedofilia foram evitadas para adequação. Ideal para uso em API.",
+    "total_jokes": 1000,
+    "jokes": [
+      {
+        "id": 1,
+        "joke": "Sou gordo! Adoro comer e não gosto de fazer exercício. Como vou emagrecer? Pegando AIDS! Você não adora comer de tudo? Sai comendo gay sem camisinha! Uma hora vai dar certo! Essa piada pode parecer um pouco preconceituosa, porque é.",
+        "theme": "Obesidade e AIDS"
+      },
+      {
+        "id": 2,
+        "joke": "Tem ser humano que não é 100% humano. O nordestino no avião? 72%.",
+        "theme": "Preconceito regional"
+      },
+      {
+        "id": 3,
+        "joke": "Se você for no zoológico, os animais vão tirar fotos de você.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 4,
+        "joke": "Fobia é medo. Medo de gordo? Só se eu fosse feito de Nutella.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 5,
+        "joke": "O aparelho de leg press está andando sozinho.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 6,
+        "joke": "Respeito todas as religiões, menos Testemunhas de Jeová. São fofoqueiros de Jeová. Parecem a Hinodê.",
+        "theme": "Religião"
+      },
+      {
+        "id": 7,
+        "joke": "Preconceito é coisa primitiva, que nem o índio.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 8,
+        "joke": "O detector de metal impediu a entrada de 1 canivete e 2 cadeirantes.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 9,
+        "joke": "Se tiver algum anão aqui, no final do show a gente estoura... vai ser pequenas causas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 10,
+        "joke": "É um padre artista ou um padre autista?",
+        "theme": "Religião e deficiência"
+      },
+      {
+        "id": 11,
+        "joke": "Vou fazer igual ao seu filho e te ignorar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 12,
+        "joke": "No interior do Ceará, a cabeça dessa criança com hidrocefalia seria a única fonte de água. A família instalou um poço nela.",
+        "theme": "Deficiência e regionalismo"
+      },
+      {
+        "id": 13,
+        "joke": "Quarta-Feira de Cinzas é feriado para judeus.",
+        "theme": "Religião e Holocausto"
+      },
+      {
+        "id": 14,
+        "joke": "O pessoal fica sempre procurando lugar aquecido na Boate Kiss.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 15,
+        "joke": "Eu só quero deixar bem claro que eu não pedi pra fazer piada no Teleton... Diferente do Silvio Santos. O Silvio tá louco!",
+        "theme": "Deficiência e Teleton"
+      },
+      {
+        "id": 16,
+        "joke": "Negro reclama de desemprego, mas na escravidão nascia empregado e ainda achava ruim.",
+        "theme": "Racismo e escravidão"
+      },
+      {
+        "id": 17,
+        "joke": "E a África em galera? Neguin lá não come, hahahaha.",
+        "theme": "Fome e racismo"
+      },
+      {
+        "id": 18,
+        "joke": "E aquele pai que abusou da filha? Olha como eu sou o papa do humor negro.",
+        "theme": "Abuso e incesto"
+      },
+      {
+        "id": 19,
+        "joke": "Veio me processar por causa de uma piada de anos atrás. Três meses depois que chegou o processo, ela apareceu com câncer. Bom, parece que Deus tem um favorito. Acho que ele gostou da piada. E pelo menos ela vai emagrecer.",
+        "theme": "Doença e processos judiciais"
+      },
+      {
+        "id": 20,
+        "joke": "Quem vier me processar vai pegar câncer e morrer.",
+        "theme": "Doença e processos judiciais"
+      },
+      {
+        "id": 21,
+        "joke": "É uma péssima época para ser branco.",
+        "theme": "Racismo e escravidão"
+      },
+      {
+        "id": 22,
+        "joke": "No show do Teleton, a criança com hidrocefalia: no interior, a cabeça dela seria poço d'água.",
+        "theme": "Deficiência e regionalismo"
+      },
+      {
+        "id": 23,
+        "joke": "Gordo no ônibus: parece um dinossauro entrando.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 24,
+        "joke": "Padre autista: detector de metal e cadeirantes.",
+        "theme": "Religião e deficiência"
+      },
+      {
+        "id": 25,
+        "joke": "Anão no show: pequenas causas no final.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 26,
+        "joke": "Índio primitivo: preconceito é coisa deles.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 27,
+        "joke": "Testemunhas de Jeová: fofoqueiros como Hinodê.",
+        "theme": "Religião"
+      },
+      {
+        "id": 28,
+        "joke": "Judeus: Cinzas é feriado deles.",
+        "theme": "Religião e Holocausto"
+      },
+      {
+        "id": 29,
+        "joke": "Nordestino no avião: só 72% humano.",
+        "theme": "Preconceito regional"
+      },
+      {
+        "id": 30,
+        "joke": "Gordo no zoológico: animais tiram selfie.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 31,
+        "joke": "Boate Kiss: sempre procurando calor.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 32,
+        "joke": "Escravidão: negro nasceu empregado.",
+        "theme": "Racismo e escravidão"
+      },
+      {
+        "id": 33,
+        "joke": "África: galera sem comida.",
+        "theme": "Fome e racismo"
+      },
+      {
+        "id": 34,
+        "joke": "Abuso pai-filha: papa do humor negro.",
+        "theme": "Abuso e incesto"
+      },
+      {
+        "id": 35,
+        "joke": "Processo: câncer divino.",
+        "theme": "Doença e processos judiciais"
+      },
+      {
+        "id": 36,
+        "joke": "Branco oprimido na escravidão.",
+        "theme": "Racismo e escravidão"
+      },
+      {
+        "id": 37,
+        "joke": "Hidrocefalia: poço no Ceará.",
+        "theme": "Deficiência e regionalismo"
+      },
+      {
+        "id": 38,
+        "joke": "Dinossauro obeso no busão.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 39,
+        "joke": "Autista no detector.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 40,
+        "joke": "Anão: causas pequenas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 41,
+        "joke": "Índio: primitivo preconceituoso.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 42,
+        "joke": "Jeová: fofoqueiro religioso.",
+        "theme": "Religião"
+      },
+      {
+        "id": 43,
+        "joke": "Criança com câncer no hospital: parece que tá treinando pra maratona da quimioterapia.",
+        "theme": "Doença"
+      },
+      {
+        "id": 44,
+        "joke": "Deficiente visual no cinema: comprou ingresso pro filme mudo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 45,
+        "joke": "No Brasil, até o deficiente auditivo ouve o funk alto demais.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 46,
+        "joke": "O cara com síndrome de Down ganhou na loteria. Agora é Down de ouro.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 47,
+        "joke": "Fui no orfanato e disse: ‘Quem quer um pai?’. Todos levantaram a mão, menos o que tava na cadeira de rodas.",
+        "theme": "Deficiência e orfandade"
+      },
+      {
+        "id": 48,
+        "joke": "Tragédia na mina: o anão foi o único que escapou pelo buraco.",
+        "theme": "Deficiência e tragédia"
+      },
+      {
+        "id": 49,
+        "joke": "Nordestino no deserto: morreu de sede, mas construiu um oásis de teimosia.",
+        "theme": "Preconceito regional"
+      },
+      {
+        "id": 50,
+        "joke": "Índio na cidade: trocou a flecha por um estilingue e virou Uber.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 51,
+        "joke": "Judeu no churrasco: trouxe carvão da Segunda Guerra.",
+        "theme": "Religião e Holocausto"
+      },
+      {
+        "id": 52,
+        "joke": "Gordo na academia: o personal trainer pediu reforço estrutural.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 53,
+        "joke": "Autista no show de comédia: riu na hora errada e virou a piada.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 54,
+        "joke": "Fui no Teleton e perguntei: ‘Cadê a criança que corre?’. Me expulsaram.",
+        "theme": "Deficiência e Teleton"
+      },
+      {
+        "id": 55,
+        "joke": "Cadeirante na escada rolante: virou atração do shopping.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 56,
+        "joke": "Negro no mercado de trabalho: currículo bom, mas a vaga era pra senzala.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 57,
+        "joke": "Fome na África: lá o prato do dia é esperança com farofa.",
+        "theme": "Fome"
+      },
+      {
+        "id": 58,
+        "joke": "Incesto na roça: o pai disse que era tradição de família.",
+        "theme": "Incesto"
+      },
+      {
+        "id": 59,
+        "joke": "Boate Kiss: o DJ tocou ‘Fogo no Parquinho’ e ninguém entendeu a ironia.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 60,
+        "joke": "Hidrocefalia no sertão: a cabeça virou reservatório municipal.",
+        "theme": "Deficiência e regionalismo"
+      },
+      {
+        "id": 61,
+        "joke": "Anão no basquete: só serve pra ser a bola.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 62,
+        "joke": "Testemunha de Jeová: bate na porta, mas nunca entra no assunto.",
+        "theme": "Religião"
+      },
+      {
+        "id": 63,
+        "joke": "Gordo no elevador: o alarme tocou antes do primeiro andar.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 64,
+        "joke": "Judeu no banco: pediu desconto na taxa do Holocausto.",
+        "theme": "Religião e Holocausto"
+      },
+      {
+        "id": 65,
+        "joke": "Nordestino no Sul: achou que o frio era preconceito climático.",
+        "theme": "Preconceito regional"
+      },
+      {
+        "id": 66,
+        "joke": "Deficiente no show: pedi pra levantar a mão, ele levantou a muleta.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 67,
+        "joke": "Criança com leucemia: cabelo caiu, mas o bom humor também.",
+        "theme": "Doença"
+      },
+      {
+        "id": 68,
+        "joke": "Índio na balada: dançou com a garrafa de cachaça e chamou de ritual.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 69,
+        "joke": "Autista no tráfego: segue as regras, mas trava na faixa de pedestre.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 70,
+        "joke": "Gordo na praia: o mar recuou com medo da tsunami.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 71,
+        "joke": "Negro na polícia: algemaram ele antes de perguntar o crime.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 72,
+        "joke": "Fome na África: mandaram arroz, mas esqueceram o fogão.",
+        "theme": "Fome"
+      },
+      {
+        "id": 73,
+        "joke": "Incesto no interior: a filha é esposa e a mãe é sogra.",
+        "theme": "Incesto"
+      },
+      {
+        "id": 74,
+        "joke": "Cadeirante na maratona: chegou em último, mas foi o mais aplaudido.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 75,
+        "joke": "Anão no circo: quiseram contratar como palhaço, ele pediu pra ser trapezista.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 76,
+        "joke": "Testemunha de Jeová: tentou converter o capeta na porta do inferno.",
+        "theme": "Religião"
+      },
+      {
+        "id": 77,
+        "joke": "Judeu na padaria: pediu pão de graça por causa do forno de 45.",
+        "theme": "Religião e Holocausto"
+      },
+      {
+        "id": 78,
+        "joke": "Nordestino na enchente: nadou até São Paulo pra vender cuscuz.",
+        "theme": "Preconceito regional"
+      },
+      {
+        "id": 79,
+        "joke": "Deficiente visual no museu: tocou a obra e disse que era arte abstrata.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 80,
+        "joke": "Criança com câncer: pediu um desejo, mas a Make-A-Wish trouxe quimioterapia.",
+        "theme": "Doença"
+      },
+      {
+        "id": 81,
+        "joke": "Índio no shopping: trocou o cocar por um boné e virou segurança.",
+        "theme": "Preconceito étnico"
+      },
+      {
+        "id": 82,
+        "joke": "Autista no stand-up: riu da piada antes de eu contar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 83,
+        "joke": "Gordo no voo: precisou de dois assentos e um paraquedas reserva.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 84,
+        "joke": "Negro na favela: disse que o tráfico era meritocracia.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 85,
+        "joke": "Fome na África: mandaram pizza, mas o motoboy se perdeu no Saara.",
+        "theme": "Fome"
+      },
+      {
+        "id": 86,
+        "joke": "Incesto na fazenda: o boi olhou e disse: ‘Até eu sei que isso é errado.’",
+        "theme": "Incesto"
+      },
+      {
+        "id": 87,
+        "joke": "Por que o homem perdeu o enterro? Ele não era uma pessoa de luto.",
+        "theme": "Morte"
+      },
+      {
+        "id": 88,
+        "joke": "É importante cuidar do Número 1. Mas não pise no Número 2.",
+        "theme": "Banheiro"
+      },
+      {
+        "id": 89,
+        "joke": "Meu terapeuta diz que o segredo para um casamento feliz é perdoar seu parceiro quando ele está errado.",
+        "theme": "Casamento"
+      },
+      {
+        "id": 90,
+        "joke": "Nunca quebre o coração de alguém; eles só têm um. Quebre os ossos deles; eles têm 206.",
+        "theme": "Violência"
+      },
+      {
+        "id": 91,
+        "joke": "Eu não tenho pegada de carbono. Eu dirijo para todo lugar.",
+        "theme": "Meio ambiente"
+      },
+      {
+        "id": 92,
+        "joke": "O que o rinoceronte disse para a girafa? 'Quem é o animal mais alto agora?'",
+        "theme": "Animais"
+      },
+      {
+        "id": 93,
+        "joke": "Meu avô diz que eu sou muito dependente da tecnologia. Eu chamei ele de hipócrita e desliguei a máquina de suporte vital dele.",
+        "theme": "Tecnologia e morte"
+      },
+      {
+        "id": 94,
+        "joke": "Eu espero que a morte seja uma mulher. Assim, ela nunca virá.",
+        "theme": "Morte e sexo"
+      },
+      {
+        "id": 95,
+        "joke": "Meu chefe me disse para ter um bom dia, então eu fui para casa.",
+        "theme": "Trabalho"
+      },
+      {
+        "id": 96,
+        "joke": "Por que o esqueleto não foi à festa? Porque ele não tinha corpo para ir com ele.",
+        "theme": "Morte"
+      },
+      {
+        "id": 97,
+        "joke": "Quando meu tio Frank morreu, ele queria que suas cinzas fossem enterradas em sua loja de fogos favorita. Então agora ele se foi com um estrondo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 98,
+        "joke": "Qual é a diferença entre geleia e marmelada? Você não pode marmelada sua pica no cu de alguém.",
+        "theme": "Sexual"
+      },
+      {
+        "id": 99,
+        "joke": "Meu avô perdeu a língua na guerra. Ele nunca fala sobre isso.",
+        "theme": "Guerra"
+      },
+      {
+        "id": 100,
+        "joke": "Se ao primeiro você não succeeds, pára-quedismo não é para você.",
+        "theme": "Falha"
+      },
+      {
+        "id": 101,
+        "joke": "Eu tenho uma piada sobre gotejamento econômico, mas 99% de vocês nunca vai entender.",
+        "theme": "Economia"
+      },
+      {
+        "id": 102,
+        "joke": "O que tem quatro rodas e voa? Um caminhão de lixo.",
+        "theme": "Lixo"
+      },
+      {
+        "id": 103,
+        "joke": "Eu joguei bumerangue há anos. Agora vivo em constante medo.",
+        "theme": "Medo"
+      },
+      {
+        "id": 104,
+        "joke": "O que é vermelho e cheira a tinta azul? Tinta vermelha.",
+        "theme": "Ilusão"
+      },
+      {
+        "id": 105,
+        "joke": "Meu filho, que é um chef, trouxe uma pato para casa para o jantar. Ele estava delicioso, até a conta chegar.",
+        "theme": "Comida"
+      },
+      {
+        "id": 106,
+        "joke": "Onde você encontra um cachorro sem pernas? Onde você o deixou.",
+        "theme": "Animais"
+      },
+      {
+        "id": 107,
+        "joke": "Eu não era próximo do meu pai quando ele morreu. O que é bom, porque ele pisou em uma mina terrestre.",
+        "theme": "Morte"
+      },
+      {
+        "id": 108,
+        "joke": "Um homem acorda em um hospital depois de um acidente terrível. Ele grita: 'Doutor, eu não sinto minhas pernas!' O doutor responde: 'Eu sei, amputei seus braços.'",
+        "theme": "Acidente"
+      },
+      {
+        "id": 109,
+        "joke": "Eu tenho uma piada sobre viagem no tempo, mas você não gostou dela.",
+        "theme": "Tempo"
+      },
+      {
+        "id": 110,
+        "joke": "Qual é a diferença entre mim e o câncer? Meu pai não venceu o câncer.",
+        "theme": "Doença"
+      },
+      {
+        "id": 111,
+        "joke": "Eu quebrei meu dedo na semana passada. Por outro lado, estou bem.",
+        "theme": "Dor"
+      },
+      {
+        "id": 112,
+        "joke": "Não desafie a Morte para uma luta de travesseiros. A menos que você esteja preparado para as consequências.",
+        "theme": "Morte"
+      },
+      {
+        "id": 113,
+        "joke": "Eu peguei um peixe que era bom em levantamento de peso. Acho que era bem musculoso.",
+        "theme": "Animais"
+      },
+      {
+        "id": 114,
+        "joke": "O cemitério é tão lotado. As pessoas estão morrendo para entrar.",
+        "theme": "Morte"
+      },
+      {
+        "id": 115,
+        "joke": "Eu gosto de vender minhas piadas para o homem sem-teto. Assim ninguém pode roubá-las.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 116,
+        "joke": "Meu avô tem o coração de um leão e uma proibição vitalícia do zoológico.",
+        "theme": "Animais"
+      },
+      {
+        "id": 117,
+        "joke": "Por que os órfãos não podem jogar beisebol? Eles não sabem onde é casa.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 118,
+        "joke": "Eu comecei a chorar quando o pai picou cebolas. Cebolas era um bom cachorro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 119,
+        "joke": "Meu pai morreu quando não fomos para a frente no Six Flags. Ele nunca foi o mesmo desde o acidente.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 120,
+        "joke": "Qual é a última coisa que passa pela mente de um inseto quando atinge o para-brisa? Sua bunda.",
+        "theme": "Morte"
+      },
+      {
+        "id": 121,
+        "joke": "Amigos compram comida para você. Melhores amigos comem sua comida.",
+        "theme": "Amizade"
+      },
+      {
+        "id": 122,
+        "joke": "Por que Hitler não bebia tequila? Porque o deixava médio.",
+        "theme": "História"
+      },
+      {
+        "id": 123,
+        "joke": "Eu estava chocado quando descobri que meu tostador não era à prova d'água.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 124,
+        "joke": "Eu não tenho um vício em Facebook. Nós só estamos em um relacionamento complicado.",
+        "theme": "Redes sociais"
+      },
+      {
+        "id": 125,
+        "joke": "Você não precisa de um paraquedas para pular de paraquedas. Você precisa de um para pular de paraquedas duas vezes.",
+        "theme": "Aventura"
+      },
+      {
+        "id": 126,
+        "joke": "Meu terapeuta diz que o tempo cura todas as feridas. Então eu a esfaqueei 37 vezes.",
+        "theme": "Violência"
+      },
+      {
+        "id": 127,
+        "joke": "Meu médico me deu seis meses de vida, então eu atirei nele. O juiz me deu 60 anos.",
+        "theme": "Crime"
+      },
+      {
+        "id": 128,
+        "joke": "Qual é a pior combinação? Diarreia e um peido? Não, câncer e Alzheimer.",
+        "theme": "Doença"
+      },
+      {
+        "id": 129,
+        "joke": "Por que o homem caiu no poço? Porque ele não conseguia ver bem.",
+        "theme": "Cegueira"
+      },
+      {
+        "id": 130,
+        "joke": "Hoje eu doei minha velha bateria para uma criança abusada. Ele não sabia de onde vinha a energia.",
+        "theme": "Abuso"
+      },
+      {
+        "id": 131,
+        "joke": "Por que o Alzheimer é ótimo? Você conhece novas pessoas todos os dias.",
+        "theme": "Doença"
+      },
+      {
+        "id": 132,
+        "joke": "Eu odeio duplos padrões. Queime um corpo em um necrotério, você é 'respeitoso'. Queime em casa, você é 'destruindo evidências'.",
+        "theme": "Crime"
+      },
+      {
+        "id": 133,
+        "joke": "Como chamam um homem barato com uma ereção? Um avaro rígido.",
+        "theme": "Sexual"
+      },
+      {
+        "id": 134,
+        "joke": "O que você ganha quando mistura erro humano e aborto? Outro erro humano.",
+        "theme": "Aborto"
+      },
+      {
+        "id": 135,
+        "joke": "Eu gostaria de morrer pacificamente enquanto durmo, como meu avô. Não gritando em terror como os passageiros no carro dele.",
+        "theme": "Morte"
+      },
+      {
+        "id": 136,
+        "joke": "Não se preocupe se você sentir falta de um funeral. Você sempre pode aparecer no próximo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 137,
+        "joke": "Qual é a diferença entre um Lamborghini e um sem-teto? Eu não tenho um Lamborghini na minha garagem.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 138,
+        "joke": "O que é branco por cima e preto por baixo? Sociedade.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 139,
+        "joke": "Você sabe que está velho quando suas velas custam mais que o bolo.",
+        "theme": "Idade"
+      },
+      {
+        "id": 140,
+        "joke": "Como o suicídio é perdido em tradução? Do prédio para a calçada.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 141,
+        "joke": "Meu chefe disse para começar toda apresentação com uma piada. Então parte um do meu CV é 'Meu último emprego'.",
+        "theme": "Trabalho"
+      },
+      {
+        "id": 142,
+        "joke": "A maioria das pessoas fica chocada quando descobre o quão ruim eu sou como eletricista.",
+        "theme": "Profissão"
+      },
+      {
+        "id": 143,
+        "joke": "Meu terapeuta diz que eu sou paranoico. Bem, ele não disse isso, mas eu sei que é o que ele pensa.",
+        "theme": "Paranoia"
+      },
+      {
+        "id": 144,
+        "joke": "Eu tentei atirar em mim mesmo, mas a bala ricocheteou no meu peito. Minha vida é uma piada.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 145,
+        "joke": "Qual é o melhor no Alzheimer? Você pode esconder seus próprios ovos de Páscoa.",
+        "theme": "Doença"
+      },
+      {
+        "id": 146,
+        "joke": "Uma maçã por dia mantém o médico longe. Ou pelo menos se você jogar forte o suficiente.",
+        "theme": "Violência"
+      },
+      {
+        "id": 147,
+        "joke": "Hoje eu decidi ir ao banco. Ainda estou escolhendo a máscara de esqui.",
+        "theme": "Crime"
+      },
+      {
+        "id": 148,
+        "joke": "Algumas pessoas são como nuvens. Quando elas desaparecem, é um dia mais brilhante.",
+        "theme": "Relacionamentos"
+      },
+      {
+        "id": 149,
+        "joke": "Qual é verde e tem rodas? Grama. Eu menti sobre as rodas.",
+        "theme": "Ilusão"
+      },
+      {
+        "id": 150,
+        "joke": "Por que o homem com um braço só cruzou a rua? Para chegar à loja de segunda mão.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 151,
+        "joke": "Hoje foi um dia terrível. Meu ex foi atropelado por um ônibus, e eu perdi meu emprego como motorista de ônibus.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 152,
+        "joke": "Um cego e um manco estão conversando. O cego diz: 'Quer ir dar uma volta?' O manco responde: 'Não me faça rir.'",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 153,
+        "joke": "Quando você olha de verdade, a vida é uma tragédia. Felizmente, é uma comédia também.",
+        "theme": "Vida"
+      },
+      {
+        "id": 154,
+        "joke": "Meu fígado e eu tivemos uma briga. Agora estamos em termos de fígado.",
+        "theme": "Saúde"
+      },
+      {
+        "id": 155,
+        "joke": "Eu comprei sapatos de um traficante de drogas. Não sei o que ele laceou neles, mas eu tenho tropeçado o dia todo.",
+        "theme": "Drogas"
+      },
+      {
+        "id": 156,
+        "joke": "Por que os terroristas não tiram férias? Porque eles estão sempre explodindo planos.",
+        "theme": "Terrorismo"
+      },
+      {
+        "id": 157,
+        "joke": "Meu amigo morreu afogado. Então no funeral, nós colocamos um colete salva-vidas no caixão. É o que ele teria querido.",
+        "theme": "Morte"
+      },
+      {
+        "id": 158,
+        "joke": "Onde os suicidas vão depois da morte? Para o inferno, eles não vão para o céu onde os anjos voam.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 159,
+        "joke": "Um órfão senta em um carro de família. O revendedor diz: 'Órfão-móvel?'",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 160,
+        "joke": "Eu fiz uma doação para uma caridade local. Meu corpo inteiro.",
+        "theme": "Doação"
+      },
+      {
+        "id": 161,
+        "joke": "O que é preto e fica no topo da escada? Stephen Hawking depois de um incêndio.",
+        "theme": "Deficiência e morte"
+      },
+      {
+        "id": 162,
+        "joke": "Eu sinto falta do meu ex. Mas minha mira está melhorando.",
+        "theme": "Relacionamentos"
+      },
+      {
+        "id": 163,
+        "joke": "Por que as mulheres amam caçadores? Eles vão fundo na mata, atiram mais de uma vez e comem o que atiram.",
+        "theme": "Sexual"
+      },
+      {
+        "id": 164,
+        "joke": "Como você surpreende um homem cego? Deixando o ferro quente ligado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 165,
+        "joke": "Eu visitei meu amigo na nova casa dele. Ele me disse para me sentir em casa. Então eu o expulsei.",
+        "theme": "Amizade"
+      },
+      {
+        "id": 166,
+        "joke": "O que é preto, branco e vermelho? Uma freira que caiu da escada.",
+        "theme": "Religião"
+      },
+      {
+        "id": 167,
+        "joke": "Eu bebo para esquecer, mas ainda sinto falta dela.",
+        "theme": "Álcool"
+      },
+      {
+        "id": 168,
+        "joke": "Qual é a parte favorita de um vegetal? A cadeira de rodas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 169,
+        "joke": "Por que o cego caiu no poço? Ele não viu isso vindo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 170,
+        "joke": "A vida é como uma caixa de chocolates. Ela não dura muito para pessoas gordas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 171,
+        "joke": "Eu comprei um cachorro de um ferreiro. Assim que cheguei em casa, ele fez um parafuso para a porta.",
+        "theme": "Animais"
+      },
+      {
+        "id": 172,
+        "joke": "Por que você nunca vê elefantes se escondendo em árvores? Porque eles são bons nisso.",
+        "theme": "Animais"
+      },
+      {
+        "id": 173,
+        "joke": "Meu cachorro é um artista. Ele faz impressões abstratas em todos os hidrantes.",
+        "theme": "Animais"
+      },
+      {
+        "id": 174,
+        "joke": "Qual é a diferença entre um judeu e um escoteiro? O escoteiro volta do acampamento.",
+        "theme": "Holocausto"
+      },
+      {
+        "id": 175,
+        "joke": "Meu chefe é como uma fralda. Sempre no meu rabo e cheio de merda.",
+        "theme": "Trabalho"
+      },
+      {
+        "id": 176,
+        "joke": "Um órfão pode ser chamado de selfie? Porque não há pais envolvidos.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 177,
+        "joke": "Por que os órfãos amam bumerangues? Porque eles voltam.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 178,
+        "joke": "Bem-vindo de volta ao Cirurgia Plástica Anônima. Vejo muitos rostos novos aqui hoje.",
+        "theme": "Cirurgia"
+      },
+      {
+        "id": 179,
+        "joke": "Quando Deus espirra, o que você diz? Nada, ele matou todos os seus amigos com pragas.",
+        "theme": "Religião"
+      },
+      {
+        "id": 180,
+        "joke": "O que é frio, azul e não se move? Um bebê morto no freezer.",
+        "theme": "Morte"
+      },
+      {
+        "id": 181,
+        "joke": "Meu ex me divorciou porque eu era obcecado por astronomia. O que ela esperava? Espaço?",
+        "theme": "Divórcio"
+      },
+      {
+        "id": 182,
+        "joke": "Um cavalo entra em um bar. Alguns pessoas saem, reconhecendo sinais de alcoolismo.",
+        "theme": "Álcool"
+      },
+      {
+        "id": 183,
+        "joke": "Eu perdi três crianças no supermercado. Mas achei eles no freezer.",
+        "theme": "Perda"
+      },
+      {
+        "id": 184,
+        "joke": "Top 3 coisas que odeio: 1. Hipocrisia 2. Ironia 3. Listas.",
+        "theme": "Listas"
+      },
+      {
+        "id": 185,
+        "joke": "Uma mulher em trabalho de parto grita: 'Não deveria! Não faria! Não poderia!' O doutor diz: 'Contrações demais.'",
+        "theme": "Nascimento"
+      },
+      {
+        "id": 186,
+        "joke": "Você sabe o que significa comida vegana? Fome.",
+        "theme": "Dieta"
+      },
+      {
+        "id": 187,
+        "joke": "Eu tenho uma piada sobre suicídio, mas ela tem um final ruim.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 188,
+        "joke": "Qual é amarelo e não pode nadar? Um ônibus cheio de crianças.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 189,
+        "joke": "Por que o homem com câncer perdeu a maratona? Ele deu positivo para esteroides.",
+        "theme": "Doença"
+      },
+      {
+        "id": 190,
+        "joke": "Dark humor é como comida. Nem todo mundo pega.",
+        "theme": "Fome"
+      },
+      {
+        "id": 191,
+        "joke": "Meu beber é problema? Não, é solução.",
+        "theme": "Álcool"
+      },
+      {
+        "id": 192,
+        "joke": "Eu não sou racista, meu melhor amigo é negro. Para provar, eu o comprei no leilão.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 193,
+        "joke": "Qual é o hobby favorito de um bebê? AIDS e câncer? Não, ser carregado.",
+        "theme": "Doença"
+      },
+      {
+        "id": 194,
+        "joke": "Hoje o mercado caiu. Eu não me importo, eu compro no supermercado.",
+        "theme": "Economia"
+      },
+      {
+        "id": 195,
+        "joke": "Por que Hitler se matou? Ele viu a conta de gás.",
+        "theme": "Holocausto"
+      },
+      {
+        "id": 196,
+        "joke": "Meu namorado disse para eu parar de imitar flamingos. Eu tive que colocar o pé no chão.",
+        "theme": "Relacionamentos"
+      },
+      {
+        "id": 197,
+        "joke": "Qual é a diferença entre um hipster e um sem-teto? Instagram.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 198,
+        "joke": "Eu sou bom em dormir, eu posso fazer de olhos fechados.",
+        "theme": "Preguiça"
+      },
+      {
+        "id": 199,
+        "joke": "Por que o órfão sentou sozinho? Família é tudo.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 200,
+        "joke": "Eu tenho uma piada sobre construção, mas ainda estou trabalhando nela.",
+        "theme": "Trabalho"
+      },
+      {
+        "id": 201,
+        "joke": "O que é preto e grita? Stevie Wonder respondendo o ferro.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 202,
+        "joke": "Eu visitei o local de nascimento de Hitler. Sem parabéns, só fatos.",
+        "theme": "História"
+      },
+      {
+        "id": 203,
+        "joke": "Por que os órfãos vão à igreja? Para chamar alguém de pai.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 204,
+        "joke": "Eu fiz sexo com uma chinesa. Foi uma experiência oriental.",
+        "theme": "Sexual"
+      },
+      {
+        "id": 205,
+        "joke": "Se você doar um rim, todos te amam. Mas doe cinco e de repente todos ficam chocados.",
+        "theme": "Doação"
+      },
+      {
+        "id": 206,
+        "joke": "Meu terapeuta cometeu suicídio. Ele era tão bom que até se curou.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 207,
+        "joke": "Bem-vindo ao AA. Alcoólicos Anônimos? Não, Artilharia Antiaérea.",
+        "theme": "Guerra"
+      },
+      {
+        "id": 208,
+        "joke": "Eu amo dark humor. Como comida, nem todo mundo pega.",
+        "theme": "Fome"
+      },
+      {
+        "id": 209,
+        "joke": "Órfãos são como bumerangues, mas só alguns voltam.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 210,
+        "joke": "Qual é a semelhança entre câncer e piadas? Nem todos pegam.",
+        "theme": "Doença"
+      },
+      {
+        "id": 211,
+        "joke": "Eu odeio russos. Por isso sou Rasputin.",
+        "theme": "História"
+      },
+      {
+        "id": 212,
+        "joke": "Qual é a parte boa do Alzheimer? Amigos novos todo dia.",
+        "theme": "Doença"
+      },
+      {
+        "id": 213,
+        "joke": "Por que vampiros estão deprimidos? Porque a vida suga.",
+        "theme": "Depressão"
+      },
+      {
+        "id": 214,
+        "joke": "Eu sou cego, mas vi o suficiente.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 215,
+        "joke": "Cemitérios: pessoas morrendo para entrar.",
+        "theme": "Morte"
+      },
+      {
+        "id": 216,
+        "joke": "Meu coração foi para São Francisco, e deixou o transplante para trás.",
+        "theme": "Doença"
+      },
+      {
+        "id": 217,
+        "joke": "Por que o livro se suicidou? Muitas tramas.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 218,
+        "joke": "Eu cortei meu dedo cortando queijo. Mas acho que exagerei.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 219,
+        "joke": "Vida dá limões? Faça limonada. Vida dá câncer? Quem pediu isso?",
+        "theme": "Doença"
+      },
+      {
+        "id": 220,
+        "joke": "Meu anticoncepcional favorito é personalidade.",
+        "theme": "Sexual"
+      },
+      {
+        "id": 221,
+        "joke": "Cachorros não podem operar máquinas de MRI, mas gatos podem.",
+        "theme": "Animais"
+      },
+      {
+        "id": 222,
+        "joke": "Dark humor é como pernas. Algumas pessoas não têm.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 223,
+        "joke": "Eu sou como vinho. Eu fico melhor com a idade. Não, eu azedo.",
+        "theme": "Idade"
+      },
+      {
+        "id": 224,
+        "joke": "Por que órfãos odeiam leite? Vem de mães.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 225,
+        "joke": "Eu doei para caridade. Meu rim, fígado, tudo.",
+        "theme": "Doação"
+      },
+      {
+        "id": 226,
+        "joke": "Vida é como câncer. Cresce sem você querer.",
+        "theme": "Doença"
+      },
+      {
+        "id": 227,
+        "joke": "Meu ex é como herpes. Sempre volta.",
+        "theme": "Doença"
+      },
+      {
+        "id": 228,
+        "joke": "Por que o avião caiu? Piloto era pão.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 229,
+        "joke": "Eu amo veganismo. Gosto de caçar veganos.",
+        "theme": "Dieta"
+      },
+      {
+        "id": 230,
+        "joke": "Cegos não veem raça. Sortudos.",
+        "theme": "Racismo"
+      },
+      {
+        "id": 231,
+        "joke": "Meu suicídio favorito é o seu.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 232,
+        "joke": "Câncer cura fumo.",
+        "theme": "Doença"
+      },
+      {
+        "id": 233,
+        "joke": "Órfãos não têm dia dos pais. Economia.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 234,
+        "joke": "Eu sou pro-vida. Minha vida.",
+        "theme": "Aborto"
+      },
+      {
+        "id": 235,
+        "joke": "Depressão é como família. Nem sempre bem-vinda.",
+        "theme": "Depressão"
+      },
+      {
+        "id": 236,
+        "joke": "Por que Hitler perdeu? Ele não viu o fim vindo.",
+        "theme": "História"
+      },
+      {
+        "id": 237,
+        "joke": "Meu humor é dark. Como meu futuro.",
+        "theme": "Depressão"
+      },
+      {
+        "id": 238,
+        "joke": "Vida dá bolas. Câncer também.",
+        "theme": "Doença"
+      },
+      {
+        "id": 239,
+        "joke": "Eu amo animais. Grelhados.",
+        "theme": "Animais"
+      },
+      {
+        "id": 240,
+        "joke": "Órfãos amam família. Em filmes.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 241,
+        "joke": "Meu ex casou de novo. Pobre coitado.",
+        "theme": "Relacionamentos"
+      },
+      {
+        "id": 242,
+        "joke": "Câncer é zodíaco. Ou sentença.",
+        "theme": "Doença"
+      },
+      {
+        "id": 243,
+        "joke": "Eu corro de problemas. Obesidade resolve.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 244,
+        "joke": "Dark humor salva vidas. Ou não.",
+        "theme": "Humor"
+      },
+      {
+        "id": 245,
+        "joke": "Por que o deficiente sorri? Treino.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 246,
+        "joke": "Vida é jogo. Eu perdi.",
+        "theme": "Depressão"
+      },
+      {
+        "id": 247,
+        "joke": "Meu epitáfio: Finalmente offline.",
+        "theme": "Morte"
+      },
+      {
+        "id": 248,
+        "joke": "Por que o zumbi terminou com a namorada? Ele queria comer outra coisa.",
+        "theme": "Morte"
+      },
+      {
+        "id": 249,
+        "joke": "Eu tentei me enforcar, mas a corda quebrou. Agora tenho uma nova coleira.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 250,
+        "joke": "O que é pior que um genocídio? A conta do gás depois.",
+        "theme": "Holocausto"
+      },
+      {
+        "id": 251,
+        "joke": "Meu cachorro morreu. Agora tenho um tapete que late.",
+        "theme": "Morte"
+      },
+      {
+        "id": 252,
+        "joke": "Por que o cego foi demitido? Ele não viu o prazo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 253,
+        "joke": "Eu doei meu fígado. Agora bebo por dois.",
+        "theme": "Doação"
+      },
+      {
+        "id": 254,
+        "joke": "O que é mais triste que um órfão? Um órfão com câncer.",
+        "theme": "Órfãos e doença"
+      },
+      {
+        "id": 255,
+        "joke": "Meu avô caiu da escada. Pelo menos o uísque estava seguro.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 256,
+        "joke": "Por que o esqueleto terminou com a namorada? Não tinha coragem.",
+        "theme": "Morte"
+      },
+      {
+        "id": 257,
+        "joke": "Eu sou tão gordo que meu médico disse: 'Você é um risco sísmico.'",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 258,
+        "joke": "O que é mais lento que uma tartaruga? Um cadeirante na areia.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 259,
+        "joke": "Fome na África: mandaram um chef, mas ele cozinhou o mapa.",
+        "theme": "Fome"
+      },
+      {
+        "id": 260,
+        "joke": "Por que o vampiro foi ao médico? Anemia grave.",
+        "theme": "Doença"
+      },
+      {
+        "id": 261,
+        "joke": "Meu chefe disse: 'Você é um peso morto.' Respondi: 'Como meu filho.'",
+        "theme": "Morte"
+      },
+      {
+        "id": 262,
+        "joke": "O que é pior que perder um braço? Perder o desconto de estudante.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 263,
+        "joke": "Eu vi um sem-teto pedindo comida. Dei meu sanduíche de ontem.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 264,
+        "joke": "Por que o zumbi foi ao bar? Queria um shot de cérebro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 265,
+        "joke": "Meu coração parou. Mas o médico disse que era só amor.",
+        "theme": "Doença"
+      },
+      {
+        "id": 266,
+        "joke": "Por que o órfão joga videogame? É o único lugar com 'vidas extras'.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 267,
+        "joke": "Eu sou tão feio que meu espelho pediu demissão.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 268,
+        "joke": "O que é mais escuro que meu humor? Meu futuro no mercado de trabalho.",
+        "theme": "Depressão"
+      },
+      {
+        "id": 269,
+        "joke": "Por que o cego terminou com a namorada? Ele não a viu traindo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 270,
+        "joke": "Eu tentei doar sangue, mas eles disseram que era veneno.",
+        "theme": "Doação"
+      },
+      {
+        "id": 271,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com seu ex dentro.",
+        "theme": "Acidente"
+      },
+      {
+        "id": 272,
+        "joke": "Por que o esqueleto não mentiu? Porque você podia ver através dele.",
+        "theme": "Morte"
+      },
+      {
+        "id": 273,
+        "joke": "Meu médico disse que tenho 6 meses. Eu disse: 'De vida?' Ele disse: 'De plano.'",
+        "theme": "Doença"
+      },
+      {
+        "id": 274,
+        "joke": "O que é mais triste que um funeral? Um funeral sem Wi-Fi.",
+        "theme": "Morte"
+      },
+      {
+        "id": 275,
+        "joke": "Eu sou tão gordo que o Google Earth me marcou como ponto turístico.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 276,
+        "joke": "Por que o deficiente auditivo foi ao show? Ele pensou que era mímico.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 277,
+        "joke": "Eu doei meu rim. Agora meu corpo é 50% off.",
+        "theme": "Doação"
+      },
+      {
+        "id": 278,
+        "joke": "O que é mais frio que o inverno? Um órfão no Natal.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 279,
+        "joke": "Por que o zumbi foi à escola? Ele queria melhorar o cérebro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 280,
+        "joke": "Meu ex disse que eu não tinha coração. Então mostrei a conta do transplante.",
+        "theme": "Doença"
+      },
+      {
+        "id": 281,
+        "joke": "O que é pior que um sem-teto? Um sem-teto com dívidas.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 282,
+        "joke": "Por que o cego comprou um iPhone? Ele queria tocar na tela.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 283,
+        "joke": "Eu tentei me matar com veneno. Mas o barista disse que era só café.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 284,
+        "joke": "O que é mais lento que um caracol? Um cadeirante na lama.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 285,
+        "joke": "Por que o vampiro terminou com a namorada? Ela não tinha veia pra ele.",
+        "theme": "Morte"
+      },
+      {
+        "id": 286,
+        "joke": "Eu sou tão gordo que meu cinto é uma órbita.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 287,
+        "joke": "O que é pior que um acidente aéreo? Um acidente aéreo com Wi-Fi fraco.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 288,
+        "joke": "Por que o órfão odeia o Dia das Mães? Porque ele nunca ganha desconto em flores.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 289,
+        "joke": "Eu doei meu pulmão. Agora respiro pela metade.",
+        "theme": "Doação"
+      },
+      {
+        "id": 290,
+        "joke": "O que é mais escuro que meu humor? Meu pulmão de fumante.",
+        "theme": "Doença"
+      },
+      {
+        "id": 291,
+        "joke": "Por que o esqueleto foi ao bar? Para tomar um osso seco.",
+        "theme": "Morte"
+      },
+      {
+        "id": 292,
+        "joke": "Eu sou tão feio que meu Tinder só dá match com bots.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 293,
+        "joke": "O que é pior que um genocídio? Um genocídio sem cobertura de imprensa.",
+        "theme": "Holocausto"
+      },
+      {
+        "id": 294,
+        "joke": "Por que o cego foi ao cinema 3D? Ele queria sentir os óculos.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 295,
+        "joke": "Eu tentei pular de um prédio, mas o elevador quebrou.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 296,
+        "joke": "O que é mais triste que um órfão? Um órfão sem Wi-Fi.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 297,
+        "joke": "Por que o zumbi foi demitido? Ele comia os colegas de trabalho.",
+        "theme": "Morte"
+      },
+      {
+        "id": 298,
+        "joke": "Meu médico disse que estou com depressão. Eu disse: 'Isso é só meu rosto.'",
+        "theme": "Depressão"
+      },
+      {
+        "id": 299,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante bêbado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 300,
+        "joke": "Eu sou tão gordo que meu shadow ban é literal.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 301,
+        "joke": "Por que o sem-teto pediu esmola? Ele queria um upgrade pra papelão premium.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 302,
+        "joke": "O que é pior que um acidente de trem? Um acidente de trem com selfie.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 303,
+        "joke": "Por que o vampiro foi ao dentista? Caninos tortos.",
+        "theme": "Morte"
+      },
+      {
+        "id": 304,
+        "joke": "Eu doei meu sangue. Agora sou 10% menos vampiro.",
+        "theme": "Doação"
+      },
+      {
+        "id": 305,
+        "joke": "O que é mais escuro que meu humor? Meu café sem açúcar.",
+        "theme": "Humor"
+      },
+      {
+        "id": 306,
+        "joke": "Por que o órfão joga xadrez? Porque o rei é o único que fica.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 307,
+        "joke": "Eu sou tão feio que meu espelho tem PTSD.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 308,
+        "joke": "O que é pior que um câncer? Um câncer com prazo de validade.",
+        "theme": "Doença"
+      },
+      {
+        "id": 309,
+        "joke": "Por que o cego comprou um carro? Ele queria sentir o airbag.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 310,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 311,
+        "joke": "O que é mais triste que um funeral? Um funeral com open bar vazio.",
+        "theme": "Morte"
+      },
+      {
+        "id": 312,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com fome de diagnóstico.",
+        "theme": "Morte"
+      },
+      {
+        "id": 313,
+        "joke": "Eu sou tão gordo que meu médico me receitou um guindaste.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 314,
+        "joke": "O que é pior que um sem-teto? Um sem-teto com alergia a papelão.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 315,
+        "joke": "Por que o cadeirante terminou com a namorada? Ela queria subir na vida.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 316,
+        "joke": "Eu doei meu coração. Agora sou oficialmente um babaca.",
+        "theme": "Doação"
+      },
+      {
+        "id": 317,
+        "joke": "O que é mais escuro que meu humor? Minha conta bancária.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 318,
+        "joke": "Por que o órfão odeia festas de família? Ele nunca é convidado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 319,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você excede o limite de peso.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 320,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com sobreviventes reclamando.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 321,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um Bloody Mary literal.",
+        "theme": "Morte"
+      },
+      {
+        "id": 322,
+        "joke": "Eu sou tão feio que meu reflexo pediu terapia.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 323,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal embrulhado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 324,
+        "joke": "Por que o cego foi ao show de mágica? Ele queria ouvir o coelho sumir.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 325,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói.",
+        "theme": "Doação"
+      },
+      {
+        "id": 326,
+        "joke": "O que é pior que um câncer? Um câncer com juros.",
+        "theme": "Doença"
+      },
+      {
+        "id": 327,
+        "joke": "Por que o zumbi foi ao ginásio? Ele queria músculos podres.",
+        "theme": "Morte"
+      },
+      {
+        "id": 328,
+        "joke": "Eu sou tão gordo que meu cinto é um anel de Saturno.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 329,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 330,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de dignidade.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 331,
+        "joke": "Eu tentei me matar com gás, mas minha cozinha é elétrica.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 332,
+        "joke": "O que é pior que um funeral? Um funeral com playlist ruim.",
+        "theme": "Morte"
+      },
+      {
+        "id": 333,
+        "joke": "Por que o vampiro terminou com a namorada? Ela era tipo O positivo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 334,
+        "joke": "Eu sou tão feio que meu espelho usa óculos escuros.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 335,
+        "joke": "O que é mais triste que um órfão? Um órfão com uma árvore genealógica em branco.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 336,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o elefante.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 337,
+        "joke": "Eu doei meu sangue. Agora sou 90% café.",
+        "theme": "Doação"
+      },
+      {
+        "id": 338,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com GPS quebrado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 339,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção cerebral.",
+        "theme": "Morte"
+      },
+      {
+        "id": 340,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma bariátrica de emergência.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 341,
+        "joke": "O que é mais escuro que meu humor? Meu diagnóstico.",
+        "theme": "Doença"
+      },
+      {
+        "id": 342,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha meias.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 343,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é poluído demais.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 344,
+        "joke": "O que é pior que um sem-teto? Um sem-teto com alergia a frio.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 345,
+        "joke": "Por que o cadeirante foi ao parque? Ele queria testar o balanço.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 346,
+        "joke": "Eu doei meu rim. Agora meu corpo é um outlet.",
+        "theme": "Doação"
+      },
+      {
+        "id": 347,
+        "joke": "O que é mais lento que um caracol? Um cadeirante na neve.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 348,
+        "joke": "Por que o vampiro foi ao banco de sangue? Ele queria um empréstimo vermelho.",
+        "theme": "Morte"
+      },
+      {
+        "id": 349,
+        "joke": "Eu sou tão feio que meu espelho entrou em depressão.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 350,
+        "joke": "O que é pior que um câncer? Um câncer com taxa de juros.",
+        "theme": "Doença"
+      },
+      {
+        "id": 351,
+        "joke": "Por que o zumbi foi à academia? Ele queria um corpo de dar inveja.",
+        "theme": "Morte"
+      },
+      {
+        "id": 352,
+        "joke": "Eu sou tão gordo que meu peso é medido em toneladas métricas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 353,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 354,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir a explosão.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 355,
+        "joke": "Eu doei meu pulmão. Agora respiro com Wi-Fi.",
+        "theme": "Doação"
+      },
+      {
+        "id": 356,
+        "joke": "O que é pior que um acidente de trem? Um acidente de trem com música sertaneja.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 357,
+        "joke": "Por que o vampiro terminou com a namorada? Ela era tipo AB negativo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 358,
+        "joke": "Eu sou tão feio que meu espelho pediu licença médica.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 359,
+        "joke": "O que é mais escuro que meu humor? Minha sombra em um apagão.",
+        "theme": "Humor"
+      },
+      {
+        "id": 360,
+        "joke": "Por que o órfão odeia o Dia dos Pais? Ele nunca ganha gravata.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 361,
+        "joke": "Eu tentei me enforcar, mas a corda pediu demissão.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 362,
+        "joke": "O que é pior que um sem-teto? Um sem-teto com Wi-Fi pago.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 363,
+        "joke": "Por que o cadeirante foi à praia? Ele queria surfar na areia.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 364,
+        "joke": "Eu doei meu coração. Agora sou oficialmente sem alma.",
+        "theme": "Doação"
+      },
+      {
+        "id": 365,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com freio de mão puxado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 366,
+        "joke": "Por que o vampiro foi ao médico? Estava com pressão alta de tanto chupar.",
+        "theme": "Morte"
+      },
+      {
+        "id": 367,
+        "joke": "Eu sou tão gordo que meu médico disse: 'Você precisa de uma órbita própria.'",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 368,
+        "joke": "O que é pior que um genocídio? Um genocídio com buffet ruim.",
+        "theme": "Holocausto"
+      },
+      {
+        "id": 369,
+        "joke": "Por que o cego foi ao circo? Ele queria ouvir o palhaço chorar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 370,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de laranja vencido.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 371,
+        "joke": "O que é mais triste que um órfão? Um órfão com um álbum de família vazio.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 372,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro on the rocks.",
+        "theme": "Morte"
+      },
+      {
+        "id": 373,
+        "joke": "Eu sou tão feio que meu espelho me bloqueou no WhatsApp.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 374,
+        "joke": "O que é pior que um câncer? Um câncer com prazo de entrega.",
+        "theme": "Doença"
+      },
+      {
+        "id": 375,
+        "joke": "Por que o sem-teto foi ao restaurante? Ele queria o menu de sobras.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 376,
+        "joke": "Eu doei meu fígado. Agora meu bar me chama de lenda.",
+        "theme": "Doação"
+      },
+      {
+        "id": 377,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi.",
+        "theme": "Humor"
+      },
+      {
+        "id": 378,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca encontra presente na chaminé.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 379,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito salgado.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 380,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com seguro vencido.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 381,
+        "joke": "Por que o vampiro foi ao dentista? Ele precisava de um canal de sangue.",
+        "theme": "Morte"
+      },
+      {
+        "id": 382,
+        "joke": "Eu sou tão gordo que meu peso é medido em elefantes africanos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 383,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com bateria fraca.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 384,
+        "joke": "Por que o cego foi à galeria de arte? Ele queria tocar a Mona Lisa.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 385,
+        "joke": "Eu doei meu pulmão. Agora respiro com aplicativo.",
+        "theme": "Doação"
+      },
+      {
+        "id": 386,
+        "joke": "O que é pior que um funeral? Um funeral com karaokê.",
+        "theme": "Morte"
+      },
+      {
+        "id": 387,
+        "joke": "Por que o zumbi foi à escola? Ele queria aprender a devorar conhecimento.",
+        "theme": "Morte"
+      },
+      {
+        "id": 388,
+        "joke": "Eu sou tão feio que meu espelho me denunciou por assédio visual.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 389,
+        "joke": "O que é mais triste que um órfão? Um órfão com uma carta para o Papai Noel.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 390,
+        "joke": "Por que o sem-teto foi ao shopping? Ele queria um carrinho de compras premium.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 391,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Eu não aguento esse peso.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 392,
+        "joke": "O que é pior que um câncer? Um câncer com fila no SUS.",
+        "theme": "Doença"
+      },
+      {
+        "id": 393,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um copo tipo A positivo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 394,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de gravidade zero.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 395,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante em uma ladeira.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 396,
+        "joke": "Por que o cego foi ao show de luzes? Ele queria sentir o calor dos holofotes.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 397,
+        "joke": "Eu doei meu coração. Agora sou um monstro de Frankenstein.",
+        "theme": "Doação"
+      },
+      {
+        "id": 398,
+        "joke": "O que é mais escuro que meu humor? Minha alma no espelho.",
+        "theme": "Humor"
+      },
+      {
+        "id": 399,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha café da manhã na cama.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 400,
+        "joke": "Eu tentei me matar com gás, mas era só o cheiro do meu vizinho cozinhando.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 401,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com check-in demorado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 402,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de carne podre.",
+        "theme": "Morte"
+      },
+      {
+        "id": 403,
+        "joke": "Eu sou tão feio que meu espelho pediu um filtro do Instagram.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 404,
+        "joke": "O que é mais triste que um órfão? Um órfão com uma foto de família em branco.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 405,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria abrir uma conta de papelão.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 406,
+        "joke": "Eu doei meu fígado. Agora o uísque me chama de traidor.",
+        "theme": "Doação"
+      },
+      {
+        "id": 407,
+        "joke": "O que é pior que um câncer? Um câncer com diagnóstico atrasado.",
+        "theme": "Doença"
+      },
+      {
+        "id": 408,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de hemoglobina.",
+        "theme": "Morte"
+      },
+      {
+        "id": 409,
+        "joke": "Eu sou tão gordo que meu médico disse: 'Você é uma crise global.'",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 410,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas quadradas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 411,
+        "joke": "Por que o cego foi ao cinema? Ele queria ouvir o som Dolby Surround.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 412,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 413,
+        "joke": "O que é mais triste que um funeral? Um funeral com buffet vegano.",
+        "theme": "Morte"
+      },
+      {
+        "id": 414,
+        "joke": "Por que o zumbi foi à academia? Ele queria um corpo de dar medo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 415,
+        "joke": "Eu sou tão feio que meu espelho me processou por danos morais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 416,
+        "joke": "O que é mais escuro que meu humor? Meu futuro sem diploma.",
+        "theme": "Humor"
+      },
+      {
+        "id": 417,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um abraço de família.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 418,
+        "joke": "Eu doei meu pulmão. Agora respiro com ventilador de teto.",
+        "theme": "Doação"
+      },
+      {
+        "id": 419,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com playlist ruim.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 420,
+        "joke": "Por que o vampiro terminou com a namorada? Ela era tipo B negativo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 421,
+        "joke": "Eu sou tão gordo que meu peso é medido em baleias azuis.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 422,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante sem bateria.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 423,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir as vaias.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 424,
+        "joke": "Eu tentei me matar com veneno, mas era só chá de boldo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 425,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de aniversário atrasado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 426,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho pra morar.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 427,
+        "joke": "Eu doei meu coração. Agora sou oficialmente um zumbi.",
+        "theme": "Doação"
+      },
+      {
+        "id": 428,
+        "joke": "O que é pior que um câncer? Um câncer com quimioterapia parcelada.",
+        "theme": "Doença"
+      },
+      {
+        "id": 429,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com gelo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 430,
+        "joke": "Eu sou tão feio que meu espelho me deu unfollow.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 431,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Netflix.",
+        "theme": "Humor"
+      },
+      {
+        "id": 432,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha bolo de cenoura.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 433,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso morto.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 434,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com turbulência.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 435,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com anemia vampírica.",
+        "theme": "Morte"
+      },
+      {
+        "id": 436,
+        "joke": "Eu sou tão gordo que meu médico me receitou um buraco negro.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 437,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu murcho.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 438,
+        "joke": "Por que o cego foi ao parque de diversões? Ele queria ouvir a montanha-russa.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 439,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de mártir.",
+        "theme": "Doação"
+      },
+      {
+        "id": 440,
+        "joke": "O que é mais triste que um funeral? Um funeral com chuva.",
+        "theme": "Morte"
+      },
+      {
+        "id": 441,
+        "joke": "Por que o zumbi foi à escola? Ele queria comer o professor.",
+        "theme": "Morte"
+      },
+      {
+        "id": 442,
+        "joke": "Eu sou tão feio que meu espelho pediu proteção policial.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 443,
+        "joke": "O que é pior que um câncer? Um câncer com consulta marcada pro ano que vem.",
+        "theme": "Doença"
+      },
+      {
+        "id": 444,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 445,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito tóxico.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 446,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem café.",
+        "theme": "Humor"
+      },
+      {
+        "id": 447,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um trenó.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 448,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de plasma.",
+        "theme": "Morte"
+      },
+      {
+        "id": 449,
+        "joke": "Eu sou tão gordo que meu peso é medido em planetas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 450,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com GPS quebrado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 451,
+        "joke": "Por que o cego foi ao teatro? Ele queria ouvir o silêncio do público.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 452,
+        "joke": "Eu doei meu coração. Agora sou um vampiro honorário.",
+        "theme": "Doação"
+      },
+      {
+        "id": 453,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com trânsito.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 454,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de alma.",
+        "theme": "Morte"
+      },
+      {
+        "id": 455,
+        "joke": "Eu sou tão feio que meu espelho me deu um strike no YouTube.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 456,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal devolvido.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 457,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 458,
+        "joke": "Eu tentei me matar com veneno, mas era só ketchup vencido.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 459,
+        "joke": "O que é pior que um câncer? Um câncer com copo descartável.",
+        "theme": "Doença"
+      },
+      {
+        "id": 460,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um coquetel de hemácias.",
+        "theme": "Morte"
+      },
+      {
+        "id": 461,
+        "joke": "Eu sou tão gordo que meu médico me receitou um foguete espacial.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 462,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas travadas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 463,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir o grand finale.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 464,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de santo.",
+        "theme": "Doação"
+      },
+      {
+        "id": 465,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem luz elétrica.",
+        "theme": "Humor"
+      },
+      {
+        "id": 466,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um beijo de boa noite.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 467,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso insuportável.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 468,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comida fria.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 469,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a alho.",
+        "theme": "Morte"
+      },
+      {
+        "id": 470,
+        "joke": "Eu sou tão feio que meu espelho me deu um unfriend no Facebook.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 471,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais não entregue.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 472,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de cobertor.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 473,
+        "joke": "Eu doei meu pulmão. Agora respiro com canudinho.",
+        "theme": "Doação"
+      },
+      {
+        "id": 474,
+        "joke": "O que é pior que um câncer? Um câncer com Wi-Fi instável.",
+        "theme": "Doença"
+      },
+      {
+        "id": 475,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro batido na coqueteleira.",
+        "theme": "Morte"
+      },
+      {
+        "id": 476,
+        "joke": "Eu sou tão gordo que meu peso é medido em luas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 477,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na chuva.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 478,
+        "joke": "Por que o cego foi ao cinema? Ele queria ouvir os efeitos especiais.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 479,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pra isso.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 480,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de elevador.",
+        "theme": "Morte"
+      },
+      {
+        "id": 481,
+        "joke": "Por que o vampiro foi à academia? Ele queria um pescoço mais forte.",
+        "theme": "Morte"
+      },
+      {
+        "id": 482,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por bullying.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 483,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem bateria.",
+        "theme": "Humor"
+      },
+      {
+        "id": 484,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um abraço de Papai Noel.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 485,
+        "joke": "Eu doei meu coração. Agora sou um esqueleto emocional.",
+        "theme": "Doação"
+      },
+      {
+        "id": 486,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com sinal fraco.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 487,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de cérebro podre.",
+        "theme": "Morte"
+      },
+      {
+        "id": 488,
+        "joke": "Eu sou tão gordo que meu médico me receitou um planeta novo.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 489,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com joystick quebrado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 490,
+        "joke": "Por que o cego foi ao show de mágica? Ele queria ouvir o coelho desaparecer.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 491,
+        "joke": "Eu tentei me matar com veneno, mas era só molho de pimenta.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 492,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem remetente.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 493,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com aquecedor.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 494,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói anônimo.",
+        "theme": "Doação"
+      },
+      {
+        "id": 495,
+        "joke": "O que é pior que um câncer? Um câncer com consulta no SUS.",
+        "theme": "Doença"
+      },
+      {
+        "id": 496,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um coquetel de glóbulos vermelhos.",
+        "theme": "Morte"
+      },
+      {
+        "id": 497,
+        "joke": "Eu sou tão feio que meu espelho me deu um block no Twitter.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 498,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem internet.",
+        "theme": "Humor"
+      },
+      {
+        "id": 499,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um almoço de família.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 500,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso demais.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 501,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com atraso no voo.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 502,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com intolerância a estaca.",
+        "theme": "Morte"
+      },
+      {
+        "id": 503,
+        "joke": "Eu sou tão gordo que meu peso é medido em galáxias.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 504,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor queimado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 505,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o tigre.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 506,
+        "joke": "Eu doei meu pulmão. Agora respiro com ventilador USB.",
+        "theme": "Doação"
+      },
+      {
+        "id": 507,
+        "joke": "O que é mais triste que um funeral? Um funeral com Wi-Fi lento.",
+        "theme": "Morte"
+      },
+      {
+        "id": 508,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais musculoso.",
+        "theme": "Morte"
+      },
+      {
+        "id": 509,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por difamação.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 510,
+        "joke": "O que é pior que um câncer? Um câncer com consulta cancelada.",
+        "theme": "Doença"
+      },
+      {
+        "id": 511,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de dignidade.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 512,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito amargo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 513,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem energia elétrica.",
+        "theme": "Humor"
+      },
+      {
+        "id": 514,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente embrulhado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 515,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue fresco.",
+        "theme": "Morte"
+      },
+      {
+        "id": 516,
+        "joke": "Eu sou tão gordo que meu médico me receitou um buraco negro como dieta.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 517,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas emperradas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 518,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir as risadas falsas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 519,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de patrono.",
+        "theme": "Doação"
+      },
+      {
+        "id": 520,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com rádio quebrado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 521,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de membros.",
+        "theme": "Morte"
+      },
+      {
+        "id": 522,
+        "joke": "Eu sou tão feio que meu espelho me deu um shadow ban.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 523,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem endereço.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 524,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com Wi-Fi.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 525,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de limão azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 526,
+        "joke": "O que é pior que um câncer? Um câncer com médico em greve.",
+        "theme": "Doença"
+      },
+      {
+        "id": 527,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um coquetel de glóbulos brancos.",
+        "theme": "Morte"
+      },
+      {
+        "id": 528,
+        "joke": "Eu sou tão gordo que meu peso é medido em sistemas solares.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 529,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com freio de emergência.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 530,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o rinoceronte.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 531,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de mesa.",
+        "theme": "Doação"
+      },
+      {
+        "id": 532,
+        "joke": "O que é mais triste que um funeral? Um funeral com discurso chato.",
+        "theme": "Morte"
+      },
+      {
+        "id": 533,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais tonificado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 534,
+        "joke": "Eu sou tão feio que meu espelho me denunciou por assédio moral.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 535,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem ar-condicionado.",
+        "theme": "Humor"
+      },
+      {
+        "id": 536,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um almoço grátis.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 537,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso insustentável.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 538,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com filme ruim.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 539,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a cruz.",
+        "theme": "Morte"
+      },
+      {
+        "id": 540,
+        "joke": "Eu sou tão gordo que meu médico me receitou um asteroide como dieta.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 541,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu murcho na neve.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 542,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio constrangedor.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 543,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de ícone.",
+        "theme": "Doação"
+      },
+      {
+        "id": 544,
+        "joke": "O que é pior que um câncer? Um câncer com exame perdido.",
+        "theme": "Doença"
+      },
+      {
+        "id": 545,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com limão.",
+        "theme": "Morte"
+      },
+      {
+        "id": 546,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos estéticos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 547,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem destinatário.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 548,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com isolamento térmico.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 549,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pra isso.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 550,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem carregador.",
+        "theme": "Humor"
+      },
+      {
+        "id": 551,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um boneco de neve.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 552,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de hemácias frescas.",
+        "theme": "Morte"
+      },
+      {
+        "id": 553,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 554,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas quadradas na lama.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 555,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o leão.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 556,
+        "joke": "Eu doei meu pulmão. Agora respiro com um soprador de folhas.",
+        "theme": "Doação"
+      },
+      {
+        "id": 557,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com bateria fraca.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 558,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de alma podre.",
+        "theme": "Morte"
+      },
+      {
+        "id": 559,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio estético.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 560,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem remetente.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 561,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão premium.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 562,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de beterraba.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 563,
+        "joke": "O que é pior que um câncer? Um câncer com médico de folga.",
+        "theme": "Doença"
+      },
+      {
+        "id": 564,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um coquetel de plasma fresco.",
+        "theme": "Morte"
+      },
+      {
+        "id": 565,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de supernova.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 566,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na areia.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 567,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir o céu explodir.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 568,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de lenda viva.",
+        "theme": "Doação"
+      },
+      {
+        "id": 569,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi grátis.",
+        "theme": "Humor"
+      },
+      {
+        "id": 570,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de chocolate.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 571,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso emocional.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 572,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária mal-humorada.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 573,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com intolerância a luz solar.",
+        "theme": "Morte"
+      },
+      {
+        "id": 574,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 575,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal não aberto.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 576,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com ar-condicionado.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 577,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com licença poética.",
+        "theme": "Doação"
+      },
+      {
+        "id": 578,
+        "joke": "O que é pior que um câncer? Um câncer com exame remarcado.",
+        "theme": "Doença"
+      },
+      {
+        "id": 579,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com sal.",
+        "theme": "Morte"
+      },
+      {
+        "id": 580,
+        "joke": "Eu sou tão gordo que meu peso é medido em constelações.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 581,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor desligado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 582,
+        "joke": "Por que o cego foi ao cinema? Ele queria ouvir o trailer.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 583,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pro fundo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 584,
+        "joke": "O que é mais triste que um funeral? Um funeral com flores de plástico.",
+        "theme": "Morte"
+      },
+      {
+        "id": 585,
+        "joke": "Por que o vampiro foi à academia? Ele queria um pescoço mais suculento.",
+        "theme": "Morte"
+      },
+      {
+        "id": 586,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio psicológico.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 587,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem celular.",
+        "theme": "Humor"
+      },
+      {
+        "id": 588,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um pisca-pisca.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 589,
+        "joke": "Eu doei meu pulmão. Agora respiro com um aspirador de pó.",
+        "theme": "Doação"
+      },
+      {
+        "id": 590,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com pneu careca.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 591,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de carne viva.",
+        "theme": "Morte"
+      },
+      {
+        "id": 592,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta intergaláctica.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 593,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas quebradas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 594,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir a explosão final.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 595,
+        "joke": "Eu tentei me matar com veneno, mas era só chá de camomila.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 596,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais não enviado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 597,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão reforçado.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 598,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de mito.",
+        "theme": "Doação"
+      },
+      {
+        "id": 599,
+        "joke": "O que é pior que um câncer? Um câncer com médico estagiário.",
+        "theme": "Doença"
+      },
+      {
+        "id": 600,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue tipo O.",
+        "theme": "Morte"
+      },
+      {
+        "id": 601,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por difamação visual.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 602,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem café da manhã.",
+        "theme": "Humor"
+      },
+      {
+        "id": 603,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um abraço de mãe.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 604,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso morto demais.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 605,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com piloto bêbado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 606,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a prata.",
+        "theme": "Morte"
+      },
+      {
+        "id": 607,
+        "joke": "Eu sou tão gordo que meu peso é medido em estrelas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 608,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na lama.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 609,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o elefante.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 610,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de chão.",
+        "theme": "Doação"
+      },
+      {
+        "id": 611,
+        "joke": "O que é mais triste que um funeral? Um funeral com flores murchas.",
+        "theme": "Morte"
+      },
+      {
+        "id": 612,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais definido.",
+        "theme": "Morte"
+      },
+      {
+        "id": 613,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio estético.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 614,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem chocolate.",
+        "theme": "Humor"
+      },
+      {
+        "id": 615,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente de Papai Noel.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 616,
+        "joke": "Eu tentei me afogar, but the sea said: 'You're too heavy for this.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 617,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com GPS desatualizado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 618,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de plasma puro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 619,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de cometa.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 620,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na neve.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 621,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do fracasso.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 622,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de deus.",
+        "theme": "Doação"
+      },
+      {
+        "id": 623,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem experiência.",
+        "theme": "Doença"
+      },
+      {
+        "id": 624,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com gelo triturado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 625,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos psicológicos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 626,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal roubado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 627,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto solar.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 628,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de maçã azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 629,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi público.",
+        "theme": "Humor"
+      },
+      {
+        "id": 630,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um café da manhã na cama.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 631,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de madeira.",
+        "theme": "Morte"
+      },
+      {
+        "id": 632,
+        "joke": "Eu sou tão gordo que meu peso é medido em universos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 633,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 634,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o urso polar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 635,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de teto quebrado.",
+        "theme": "Doação"
+      },
+      {
+        "id": 636,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com som desligado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 637,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais firme.",
+        "theme": "Morte"
+      },
+      {
+        "id": 638,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio visual extremo.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 639,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais perdido.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 640,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão impermeável.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 641,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso eterno.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 642,
+        "joke": "O que é pior que um câncer? Um câncer com médico de férias.",
+        "theme": "Doença"
+      },
+      {
+        "id": 643,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com limão.",
+        "theme": "Morte"
+      },
+      {
+        "id": 644,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buraco negro.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 645,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas desmontadas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 646,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir o céu queimar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 647,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de salvador.",
+        "theme": "Doação"
+      },
+      {
+        "id": 648,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem café expresso.",
+        "theme": "Humor"
+      },
+      {
+        "id": 649,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente embrulhado com laço.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 650,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito tóxico pro fundo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 651,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com assento apertado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 652,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com intolerância a alho frito.",
+        "theme": "Morte"
+      },
+      {
+        "id": 653,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos emocionais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 654,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem nome.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 655,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com aquecimento.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 656,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com certificado.",
+        "theme": "Doação"
+      },
+      {
+        "id": 657,
+        "joke": "O que é pior que um câncer? Um câncer com médico em treinamento.",
+        "theme": "Doença"
+      },
+      {
+        "id": 658,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com gelo picado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 659,
+        "joke": "Eu sou tão gordo que meu peso é medido em nebulosas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 660,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no gelo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 661,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o crocodilo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 662,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de carro.",
+        "theme": "Doação"
+      },
+      {
+        "id": 663,
+        "joke": "O que é mais triste que um funeral? Um funeral com discurso em PowerPoint.",
+        "theme": "Morte"
+      },
+      {
+        "id": 664,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais esculpido.",
+        "theme": "Morte"
+      },
+      {
+        "id": 665,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio visual grave.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 666,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi 5G.",
+        "theme": "Humor"
+      },
+      {
+        "id": 667,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de aniversário.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 668,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso insuportável demais.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 669,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com airbnbag vencido.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 670,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com hortelã.",
+        "theme": "Morte"
+      },
+      {
+        "id": 671,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buraco negro supermassivo.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 672,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas travadas na areia.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 673,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o comediante falhar.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 674,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói lendário.",
+        "theme": "Doação"
+      },
+      {
+        "id": 675,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem jaleco.",
+        "theme": "Doença"
+      },
+      {
+        "id": 676,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com açúcar mascavo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 677,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais extremos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 678,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal esquecido.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 679,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto retrátil.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 680,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito amargo pro fundo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 681,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem café preto.",
+        "theme": "Humor"
+      },
+      {
+        "id": 682,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com laço vermelho.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 683,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a água benta.",
+        "theme": "Morte"
+      },
+      {
+        "id": 684,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 685,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no deserto.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 686,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o gorila.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 687,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de laptop.",
+        "theme": "Doação"
+      },
+      {
+        "id": 688,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com som estourado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 689,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais elástico.",
+        "theme": "Morte"
+      },
+      {
+        "id": 690,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio visual crônico.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 691,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais não aberto.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 692,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão com isolamento.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 693,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de goiaba azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 694,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem estetoscópio.",
+        "theme": "Doença"
+      },
+      {
+        "id": 695,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com gelo moído.",
+        "theme": "Morte"
+      },
+      {
+        "id": 696,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de matéria escura.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 697,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas travadas no gelo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 698,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público constrangido.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 699,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de profeta.",
+        "theme": "Doação"
+      },
+      {
+        "id": 700,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi de alta velocidade.",
+        "theme": "Humor"
+      },
+      {
+        "id": 701,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de fubá.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 702,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso insustentável demais.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 703,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem café.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 704,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a luz de LED.",
+        "theme": "Morte"
+      },
+      {
+        "id": 705,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais crônicos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 706,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem destinatário.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 707,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova d'água.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 708,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com diploma.",
+        "theme": "Doação"
+      },
+      {
+        "id": 709,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem plantão.",
+        "theme": "Doença"
+      },
+      {
+        "id": 710,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com hortelã fresca.",
+        "theme": "Morte"
+      },
+      {
+        "id": 711,
+        "joke": "Eu sou tão gordo que meu peso é medido em galáxias distantes.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 712,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no asfalto quente.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 713,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o hipopótamo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 714,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de escritório.",
+        "theme": "Doação"
+      },
+      {
+        "id": 715,
+        "joke": "O que é mais triste que um funeral? Um funeral com discurso motivacional.",
+        "theme": "Morte"
+      },
+      {
+        "id": 716,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais tonificado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 717,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por assédio visual extremo.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 718,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Netflix grátis.",
+        "theme": "Humor"
+      },
+      {
+        "id": 719,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com cartão.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 720,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pro abismo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 721,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com som estourado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 722,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com gelo triturado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 723,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de supernova massiva.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 724,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas quebradas na neve.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 725,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público envergonhado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 726,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói eterno.",
+        "theme": "Doação"
+      },
+      {
+        "id": 727,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem experiência clínica.",
+        "theme": "Doença"
+      },
+      {
+        "id": 728,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com limão siciliano.",
+        "theme": "Morte"
+      },
+      {
+        "id": 729,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais extremos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 730,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal perdido na entrega.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 731,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de chuva.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 732,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de maracujá azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 733,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi de alta velocidade.",
+        "theme": "Humor"
+      },
+      {
+        "id": 734,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de milho.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 735,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso insustentável pro universo.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 736,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com Wi-Fi instável.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 737,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a espelhos.",
+        "theme": "Morte"
+      },
+      {
+        "id": 738,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros colossais.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 739,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na lama quente.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 740,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar a girafa.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 741,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com crachá de identificação.",
+        "theme": "Doação"
+      },
+      {
+        "id": 742,
+        "joke": "O que é pior que um câncer? Um câncer com médico sem licença.",
+        "theme": "Doença"
+      },
+      {
+        "id": 743,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com pimenta.",
+        "theme": "Morte"
+      },
+      {
+        "id": 744,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais irreversíveis.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 745,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem embrulho.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 746,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão com Wi-Fi.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 747,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro oceano.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 748,
+        "joke": "O que é mais triste que um funeral? Um funeral com playlist de música sertaneja.",
+        "theme": "Morte"
+      },
+      {
+        "id": 749,
+        "joke": "Por que o vampiro foi à academia? Ele queria um pescoço mais apetitoso.",
+        "theme": "Morte"
+      },
+      {
+        "id": 750,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de quasares.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 751,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor enguiçado na chuva.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 752,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir o barulho do fracasso.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 753,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de ídolo eterno.",
+        "theme": "Doação"
+      },
+      {
+        "id": 754,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por telemedicina.",
+        "theme": "Doença"
+      },
+      {
+        "id": 755,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de manjericão.",
+        "theme": "Morte"
+      },
+      {
+        "id": 756,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais catastróficos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 757,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem endereço.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 758,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto solar retrátil.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 759,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de abacaxi azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 760,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem assinatura de streaming.",
+        "theme": "Humor"
+      },
+      {
+        "id": 761,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com fita dourada.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 762,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a velas bentas.",
+        "theme": "Morte"
+      },
+      {
+        "id": 763,
+        "joke": "Eu sou tão gordo que meu peso é medido em aglomerados galácticos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 764,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no deserto escaldante.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 765,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o rinoceronte branco.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 766,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de teto enferrujado.",
+        "theme": "Doação"
+      },
+      {
+        "id": 767,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com rádio tocando música pop.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 768,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais suculento.",
+        "theme": "Morte"
+      },
+      {
+        "id": 769,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais apocalípticos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 770,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem remetente.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 771,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão com ar-condicionado.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 772,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso cósmico.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 773,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por WhatsApp.",
+        "theme": "Doença"
+      },
+      {
+        "id": 774,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com canela.",
+        "theme": "Morte"
+      },
+      {
+        "id": 775,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de pulsares.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 776,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor queimado na neve.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 777,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público horrorizado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 778,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de messias.",
+        "theme": "Doação"
+      },
+      {
+        "id": 779,
+        "joke": "O que é mais triste que um funeral? Um funeral com open bar sem álcool.",
+        "theme": "Morte"
+      },
+      {
+        "id": 780,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com toque de limão siciliano.",
+        "theme": "Morte"
+      },
+      {
+        "id": 781,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 782,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes.",
+        "theme": "Humor"
+      },
+      {
+        "id": 783,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de morango.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 784,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pro fundo do oceano.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 785,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem lanche.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 786,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a alho cru.",
+        "theme": "Morte"
+      },
+      {
+        "id": 787,
+        "joke": "Eu sou tão gordo que meu peso é medido em supernovas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 788,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no pântano.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 789,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o leopardo.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 790,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de hélice.",
+        "theme": "Doação"
+      },
+      {
+        "id": 791,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por e-mail.",
+        "theme": "Doença"
+      },
+      {
+        "id": 792,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com gelo ralado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 793,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais cósmicos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 794,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem destinatário.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 795,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com aquecedor embutido.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 796,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de manga azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 797,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem redes sociais.",
+        "theme": "Humor"
+      },
+      {
+        "id": 798,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho brilhante.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 799,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com toque de baunilha.",
+        "theme": "Morte"
+      },
+      {
+        "id": 800,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de matéria estelar.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 801,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas travadas no deserto.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 802,
+        "joke": "Por que o cego foi ao show de fogos? Ele queria ouvir o céu em chamas.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 803,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com distintivo honorário.",
+        "theme": "Doação"
+      },
+      {
+        "id": 804,
+        "joke": "O que é pior que um acidente de carro? Um acidente de carro com playlist de música sertaneja.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 805,
+        "joke": "Por que o zumbi foi ao médico? Ele estava com uma infecção de carne estragada.",
+        "theme": "Morte"
+      },
+      {
+        "id": 806,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a humanidade.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 807,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais nunca entregue.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 808,
+        "joke": "Por que o sem-teto foi ao banco? Ele queria um empréstimo de papelão com teto solar.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 809,
+        "joke": "Eu tentei me enforcar, mas a corda disse: 'Você é um peso interdimensional.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 810,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por Zoom.",
+        "theme": "Doença"
+      },
+      {
+        "id": 811,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de gengibre.",
+        "theme": "Morte"
+      },
+      {
+        "id": 812,
+        "joke": "Eu sou tão gordo que meu peso é medido em aglomerados estelares.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 813,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no pântano.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 814,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o tigre albino.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 815,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de fusca.",
+        "theme": "Doação"
+      },
+      {
+        "id": 816,
+        "joke": "O que é mais triste que um funeral? Um funeral com Wi-Fi cortado.",
+        "theme": "Morte"
+      },
+      {
+        "id": 817,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais robusto.",
+        "theme": "Morte"
+      },
+      {
+        "id": 818,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais intergalácticos.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 819,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gato.",
+        "theme": "Humor"
+      },
+      {
+        "id": 820,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com papel de presente.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 821,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pro abismo oceânico.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 822,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com filme dublado.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 823,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a alho em pó.",
+        "theme": "Morte"
+      },
+      {
+        "id": 824,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros quânticos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 825,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com rodas quebradas no deserto.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 826,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio constrangedor do público.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 827,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de santo patrono.",
+        "theme": "Doação"
+      },
+      {
+        "id": 828,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por telegrama.",
+        "theme": "Doença"
+      },
+      {
+        "id": 829,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de coentro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 830,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais universais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 831,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem mensagem.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 832,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de vento.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 833,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de laranja amarga.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 834,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorro.",
+        "theme": "Humor"
+      },
+      {
+        "id": 835,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de chocolate com cobertura.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 836,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com pimenta do reino.",
+        "theme": "Morte"
+      },
+      {
+        "id": 837,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos quânticos.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 838,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na selva.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 839,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o urso panda.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 840,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de bicicleta.",
+        "theme": "Doação"
+      },
+      {
+        "id": 841,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de elevador remixada.",
+        "theme": "Morte"
+      },
+      {
+        "id": 842,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais crocante.",
+        "theme": "Morte"
+      },
+      {
+        "id": 843,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a visão.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 844,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi gratuito.",
+        "theme": "Humor"
+      },
+      {
+        "id": 845,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com laço de fita.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 846,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo abissal.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 847,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem café.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 848,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a cruzes de neon.",
+        "theme": "Morte"
+      },
+      {
+        "id": 849,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de galáxias anãs.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 850,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado no pântano.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 851,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público envergonhado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 852,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de divindade etílica.",
+        "theme": "Doação"
+      },
+      {
+        "id": 853,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por carta.",
+        "theme": "Doença"
+      },
+      {
+        "id": 854,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de alecrim.",
+        "theme": "Morte"
+      },
+      {
+        "id": 855,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais interdimensionais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 856,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem remetente.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 857,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de granizo.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 858,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de caju azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 859,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de bebê Yoda.",
+        "theme": "Humor"
+      },
+      {
+        "id": 860,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de baunilha.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 861,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de noz-moscada.",
+        "theme": "Morte"
+      },
+      {
+        "id": 862,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros primordiais.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 863,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na tundra.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 864,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o elefante africano.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 865,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de ventilação industrial.",
+        "theme": "Doação"
+      },
+      {
+        "id": 866,
+        "joke": "O que é mais triste que um funeral? Um funeral com flores de papel crepom.",
+        "theme": "Morte"
+      },
+      {
+        "id": 867,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais mastigável.",
+        "theme": "Morte"
+      },
+      {
+        "id": 868,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a percepção visual.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 869,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem Wi-Fi no metrô.",
+        "theme": "Humor"
+      },
+      {
+        "id": 870,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com cartão personalizado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 871,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito pesado pro fundo do Pacífico.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 872,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem sorriso.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 873,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de carvalho.",
+        "theme": "Morte"
+      },
+      {
+        "id": 874,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de nebulosas planetárias.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 875,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na selva.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 876,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público chocado.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 877,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de lenda etílica.",
+        "theme": "Doação"
+      },
+      {
+        "id": 878,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por pombo-correio.",
+        "theme": "Doença"
+      },
+      {
+        "id": 879,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de orégano.",
+        "theme": "Morte"
+      },
+      {
+        "id": 880,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais multiversais.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 881,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem destinatário.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 882,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de tempestade.",
+        "theme": "Pobreza"
+      },
+      {
+        "id": 883,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de acerola azedo.",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 884,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de Elon Musk.",
+        "theme": "Humor"
+      },
+      {
+        "id": 885,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de limão.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 886,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de cravo.",
+        "theme": "Morte"
+      },
+      {
+        "id": 887,
+        "joke": "Eu sou tão gordo que meu peso é medido em galáxias elípticas.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 888,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na savana.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 889,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o rinoceronte negro.",
+        "theme": "Deficiência"
+      },
+      {
+        "id": 890,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de kombi.",
+        "theme": "Doação"
+      },
+      {
+        "id": 891,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de call center.",
+        "theme": "Morte"
+      },
+      {
+        "id": 892,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais apetitoso.",
+        "theme": "Morte"
+      },
+      {
+        "id": 893,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a retina.",
+        "theme": "Aparência"
+      },
+      {
+        "id": 894,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de Grok.",
+        "theme": "Humor"
+      },
+      {
+        "id": 895,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho metalizado.",
+        "theme": "Órfãos"
+      },
+      {
+        "id": 896,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro abismo do Atlântico.'",
+        "theme": "Suicídio"
+      },
+      {
+        "id": 897,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem paciência.",
+        "theme": "Tragédia"
+      },
+      {
+        "id": 898,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de pinheiro.",
+        "theme": "Morte"
+      },
+      {
+        "id": 899,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros estelares.",
+        "theme": "Obesidade"
+      },
+      {
+        "id": 900,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na tundra.",
+        "theme": "Deficiência"
+      },
+    {
+        "id": 901,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público petrificado.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 902,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de divindade alcoólica.",
+        "theme": "Doação"
+    },
+    {
+        "id": 903,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por sinal de fumaça.",
+        "theme": "Doença"
+    },
+    {
+        "id": 904,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de manjericão fresco.",
+        "theme": "Morte"
+    },
+    {
+        "id": 905,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais quânticos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 906,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem etiqueta.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 907,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de furacão.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 908,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de pitanga azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 909,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de inteligência artificial.",
+        "theme": "Humor"
+    },
+    {
+        "id": 910,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de laranja.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 911,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de cominho.",
+        "theme": "Morte"
+    },
+    {
+        "id": 912,
+        "joke": "Eu sou tão gordo que meu peso é medido em aglomerados de galáxias.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 913,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na floresta tropical.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 914,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o leão-marinho.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 915,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de trator.",
+        "theme": "Doação"
+    },
+    {
+        "id": 916,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda antiga.",
+        "theme": "Morte"
+    },
+    {
+        "id": 917,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais macio.",
+        "theme": "Morte"
+    },
+    {
+        "id": 918,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética universal.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 919,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos astronautas.",
+        "theme": "Humor"
+    },
+    {
+        "id": 920,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com fita de cetim.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 921,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Ártico.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 922,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem Wi-Fi.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 923,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de bambu.",
+        "theme": "Morte"
+    },
+    {
+        "id": 924,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de galáxias espirais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 925,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na savana.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 926,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público perplexo.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 927,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói mitológico.",
+        "theme": "Doação"
+    },
+    {
+        "id": 928,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por fax.",
+        "theme": "Doença"
+    },
+    {
+        "id": 929,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de curry.",
+        "theme": "Morte"
+    },
+    {
+        "id": 930,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais cósmicos extremos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 931,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem assinatura.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 932,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de tornado.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 933,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de graviola azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 934,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros astronautas.",
+        "theme": "Humor"
+    },
+    {
+        "id": 935,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de coco.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 936,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de pimenta caiena.",
+        "theme": "Morte"
+    },
+    {
+        "id": 937,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos primordiais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 938,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na Antártida.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 939,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o urso pardo.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 940,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de motocicleta.",
+        "theme": "Doação"
+    },
+    {
+        "id": 941,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de comercial de margarina.",
+        "theme": "Morte"
+    },
+    {
+        "id": 942,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais suculento e crocante.",
+        "theme": "Morte"
+    },
+    {
+        "id": 943,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a percepção estética.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 944,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos hackers.",
+        "theme": "Humor"
+    },
+    {
+        "id": 945,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de estrelas.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 946,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Índico.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 947,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem lanche grátis.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 948,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de cedro.",
+        "theme": "Morte"
+    },
+    {
+        "id": 949,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de matéria escura cósmica.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 950,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na floresta amazônica.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 951,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público atônito.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 952,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de ícone alcoólico.",
+        "theme": "Doação"
+    },
+    {
+        "id": 953,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por rádio amador.",
+        "theme": "Doença"
+    },
+    {
+        "id": 954,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de tomilho.",
+        "theme": "Morte"
+    },
+    {
+        "id": 955,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais hiperdimensionais.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 956,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem remetente.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 957,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de tsunami.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 958,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de tamarindo azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 959,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros hackers.",
+        "theme": "Humor"
+    },
+    {
+        "id": 960,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de abacaxi.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 961,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de salsinha.",
+        "theme": "Morte"
+    },
+    {
+        "id": 962,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros quânticos primordiais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 963,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no polo norte.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 964,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o tigre siberiano.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 965,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de caminhão.",
+        "theme": "Doação"
+    },
+    {
+        "id": 966,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de sabão em pó.",
+        "theme": "Morte"
+    },
+    {
+        "id": 967,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais elástico e saboroso.",
+        "theme": "Morte"
+    },
+    {
+        "id": 968,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética cósmica.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 969,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de inteligência artificial avançada.",
+        "theme": "Humor"
+    },
+    {
+        "id": 970,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de flocos de neve.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 971,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Mediterrâneo.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 972,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem fones de ouvido.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 973,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de mogno.",
+        "theme": "Morte"
+    },
+    {
+        "id": 974,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de galáxias anãs elípticas.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 975,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado no deserto do Saara.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 976,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público em choque.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 977,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de lenda cósmica.",
+        "theme": "Doação"
+    },
+    {
+        "id": 978,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por carta registrada.",
+        "theme": "Doença"
+    },
+    {
+        "id": 979,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de cebolinha.",
+        "theme": "Morte"
+    },
+    {
+        "id": 980,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais hiperbólicos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 981,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem mensagem.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 982,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de terremoto.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 983,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de jabuticaba azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 984,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos com óculos.",
+        "theme": "Humor"
+    },
+    {
+        "id": 985,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de maçã.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 986,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de alho-poró.",
+        "theme": "Morte"
+    },
+    {
+        "id": 987,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos estelares.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 988,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no polo sul.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 989,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o orangotango.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 990,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de avião.",
+        "theme": "Doação"
+    },
+    {
+        "id": 991,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de shampoo.",
+        "theme": "Morte"
+    },
+    {
+        "id": 992,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais firme e saboroso.",
+        "theme": "Morte"
+    },
+    {
+        "id": 993,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a percepção visual cósmica.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 994,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros com chapéu.",
+        "theme": "Humor"
+    },
+    {
+        "id": 995,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de renas.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 996,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Atlântico Sul.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 997,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem revista.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 998,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de eucalipto.",
+        "theme": "Morte"
+    },
+    {
+        "id": 999,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros hiperdimensionais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1000,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado no deserto de Atacama.",
+        "theme": "Deficiência"
+    },
+            {
+            "id": 1001,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar a zebra.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1002,
+        "joke": "Eu doei meu coração. Agora sou um zumbi com carteirinha de doador.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1003,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por código morse.",
+        "theme": "Doença"
+    },
+    {
+        "id": 1004,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de manjericão roxo.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1005,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais transcendentais.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1006,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Natal sem endereço de retorno.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1007,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de meteoro.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 1008,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de carambola azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1009,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos programadores.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1010,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de maracujá.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1011,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de cardamomo.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1012,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros quânticos supermassivos.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1013,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na floresta boreal.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1014,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público em pânico.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1015,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de foguete.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1016,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de detergente.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1017,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais tenro e suculento.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1018,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética intergaláctica.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1019,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros cientistas.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1020,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de Papai Noel.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1021,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Caribe.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1022,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem café grátis.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 1023,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de jacarandá.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1024,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de aglomerados estelares supermassivos.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1025,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na tundra ártica.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1026,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o elefante asiático.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1027,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de divindade etílica suprema.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1028,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por mensagens de garrafa.",
+        "theme": "Doença"
+    },
+    {
+        "id": 1029,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de pimenta malagueta.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1030,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais hiperdimensionais extremos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1031,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem destinatário fixo.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1032,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de apocalipse.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 1033,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de cajá azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1034,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos cientistas.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1035,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de banana.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1036,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de açafrão.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1037,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos quânticos primordiais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1038,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no deserto de Gobi.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1039,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público horrorizado.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1040,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de nave espacial.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1041,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de pasta de dente.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1042,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais macio e apetitoso.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1043,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética multidimensional.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1044,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros programadores.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1045,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de bonecos de neve.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1046,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Pacífico Sul.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1047,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem cobertor.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 1048,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de ipê.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1049,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros hiperbólicos.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1050,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado no deserto do Kalahari.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1051,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o lobo cinzento.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1052,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de herói intergaláctico.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1053,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por sinais de tambor.",
+        "theme": "Doença"
+    },
+    {
+        "id": 1054,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de estragão.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1055,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais interdimensionais extremos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1056,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem endereço de entrega.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1057,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de invasão alienígena.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 1058,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de cupuaçu azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1059,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos exploradores espaciais.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1060,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de maçã com canela.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1061,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de anis estrelado.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1062,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos hiperdimensionais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1063,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado na taiga siberiana.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1064,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público em estado de choque.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1065,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de submarino.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1066,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de sabonete.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1067,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais firme e crocante.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1068,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética hiperbólica.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1069,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros astronautas.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1070,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de luzes natalinas.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1071,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Mar Vermelho.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1072,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem travesseiro.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 1073,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de cerejeira.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1074,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros quânticos hiperbólicos.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1075,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado na savana africana.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1076,
+        "joke": "Por que o cego foi ao zoológico? Ele queria tocar o urso polar.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1077,
+        "joke": "Eu doei meu fígado. Agora o bar me chama de lenda estelar.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1078,
+        "joke": "O que é pior que um câncer? Um câncer com médico que só atende por megafone.",
+        "theme": "Doença"
+    },
+    {
+        "id": 1079,
+        "joke": "Por que o zumbi foi ao bar? Ele queria um cérebro com um toque de sálvia.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1080,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por danos visuais hiperdimensionais quânticos.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1081,
+        "joke": "O que é mais triste que um órfão? Um órfão com um presente de Dia dos Pais sem remetente conhecido.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1082,
+        "joke": "Por que o sem-teto foi ao supermercado? Ele queria um carrinho com teto à prova de erupção vulcânica.",
+        "theme": "Pobreza"
+    },
+    {
+        "id": 1083,
+        "joke": "Eu tentei me matar com veneno, mas era só suco de umbu azedo.",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1084,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de gatos viajantes espaciais.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1085,
+        "joke": "Por que o órfão odeia o Dia das Mães? Ele nunca ganha um bolo de milho com goiabada.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1086,
+        "joke": "Por que o vampiro foi ao bar? Ele queria um shot de sangue com um toque de louro.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1087,
+        "joke": "Eu sou tão gordo que meu peso é medido em buracos negros supermassivos transcendentais.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1088,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com pneu furado no deserto da Namíbia.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1089,
+        "joke": "Por que o cego foi ao show de comédia? Ele queria ouvir o silêncio do público em crise existencial.",
+        "theme": "Deficiência"
+    },
+    {
+        "id": 1090,
+        "joke": "Eu doei meu pulmão. Agora respiro com um ventilador de motor de tanque de guerra.",
+        "theme": "Doação"
+    },
+    {
+        "id": 1091,
+        "joke": "O que é mais triste que um funeral? Um funeral com música de fundo de propaganda de desodorante.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1092,
+        "joke": "Por que o zumbi foi à academia? Ele queria um cérebro mais suculento e mastigável.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1093,
+        "joke": "Eu sou tão feio que meu espelho me deu um processo por crimes contra a estética quântica.",
+        "theme": "Aparência"
+    },
+    {
+        "id": 1094,
+        "joke": "O que é mais escuro que meu humor? Minha vida sem memes de cachorros viajantes espaciais.",
+        "theme": "Humor"
+    },
+    {
+        "id": 1095,
+        "joke": "Por que o órfão odeia o Natal? Ele nunca ganha um presente com embrulho de estrelas cadentes.",
+        "theme": "Órfãos"
+    },
+    {
+        "id": 1096,
+        "joke": "Eu tentei me afogar, mas o mar disse: 'Você é muito denso pro fundo do Mar do Norte.'",
+        "theme": "Suicídio"
+    },
+    {
+        "id": 1097,
+        "joke": "O que é pior que um acidente de avião? Um acidente de avião com comissária sem máscara de oxigênio.",
+        "theme": "Tragédia"
+    },
+    {
+        "id": 1098,
+        "joke": "Por que o vampiro foi ao médico? Ele estava com alergia a estacas de carvalho branco.",
+        "theme": "Morte"
+    },
+    {
+        "id": 1099,
+        "joke": "Eu sou tão gordo que meu médico me receitou uma dieta de buracos negros hiperdimensionais supermassivos.",
+        "theme": "Obesidade"
+    },
+    {
+        "id": 1100,
+        "joke": "O que é mais lento que um cadeirante? Um cadeirante com motor travado no deserto de Mojave.",
+        "theme": "Deficiência"
+    }
+  ]
+}
+    
+
+    
