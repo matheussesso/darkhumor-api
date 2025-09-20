@@ -7,7 +7,7 @@
 
 > Uma API REST gratuita e open source para piadas de humor negro em formato JSON, inspirada na chucknorris.io
 
-## 📋 Índice
+## Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Características](#-características)
@@ -21,14 +21,14 @@
 - [Licença](#-licença)
 - [Suporte](#-suporte)
 
-## 🎯 Sobre o Projeto
+## obre o Projeto
 
 A **Dark Humor API** é uma API REST completa que fornece acesso a uma coleção cuidadosamente curada de piadas de humor negro em português brasileiro. Desenvolvida com CodeIgniter 4, oferece uma interface moderna e endpoints bem documentados para desenvolvedores.
 
-### ✨ Características
+### Características
 
-- 🎲 **250+ piadas** cuidadosamente selecionadas
-- 🏷️ **68+ categorias** diferentes organizadas
+- 🎲 **1000+ piadas** cuidadosamente selecionadas
+- 🏷️ **65+ categorias** diferentes organizadas
 - 🔍 **Busca por texto** livre e inteligente
 - 🌐 **Suporte multilíngue** (PT, EN, ES)
 - 📱 **Interface web** moderna e responsiva
@@ -490,7 +490,7 @@ darkhumor-api/
 └── README_API.md
 ```
 
-## 🧪 Testes
+## Testes
 
 ### Executar Testes
 ```bash
@@ -523,8 +523,7 @@ curl -X GET "http://localhost/jokes/categories"
 - **1000+** piadas únicas catalogadas
 - **68+** categorias diferentes
 
-
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
@@ -556,9 +555,9 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Desenvolvido com ❤️ para a comunidade de desenvolvedores**
+**Desenvolvido com ❤️ para a comunidade de desenvolvedores brasileiros**
 
-*Inspirado na chucknorris.io - Adaptado para humor negro brasileiro*
+*Inspirado na [chucknorris.io](chucknorris.io)](chucknorris.io) - Adaptado para humor negro brasileiro*
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheussesso/darkhumor-api)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
