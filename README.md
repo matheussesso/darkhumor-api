@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![API Status](https://img.shields.io/badge/API-Active-green.svg)](https://github.com/matheussesso/darkhumor-api)
 
-> Uma API REST gratuita e open source criada na zueira com piadas de baixissímo nível de humor negro em formato JSON, inspirada na [chucknorris.io](chucknorris.io)
+> Uma API REST gratuita e open source criada na zueira com piadas de baixissímo nível de humor negro em formato JSON, inspirada na [chucknorris.io](https://api.chucknorris.io/)
 
 ## Índice
 
