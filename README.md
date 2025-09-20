@@ -39,7 +39,7 @@ Desenvolvida de brincadeira, a **Dark Humor API** é uma API REST completa que f
 ## Demonstração
 
 ### Interface Web
-Acesse a interface web interativa em: [https://api.chucknorris.io/](https://darkhumor-api.ddns.net/)
+Acesse a interface web interativa em: [https://darkhumor-api.ddns.net/](https://darkhumor-api.ddns.net/)
 
 ### API Rápida
 ```bash
